@@ -1,0 +1,944 @@
+//更新時間
+.lbl_datetime {
+  width: 142px;
+  height: 116px;
+
+
+  position: relative;
+  top: 56px;
+  left: 1064px;
+
+
+  span {
+    line-height: 30px;
+    text-align: center;
+  }
+
+}
+
+
+//風向、風速
+.datewind {
+  width: 100px;
+  height: 40px;
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+
+  position: relative;
+  top: 78px;
+  left: 1098px;
+  gap: 4px;
+}
+
+
+
+
+//資料框 的部分
+
+.flow {
+  width: 140px;
+  height: 60px;
+  background-image: url(../img/flow.png);
+  background-repeat: no-repeat;
+
+
+
+  .flow-group {
+    display: flex;
+    position: relative;
+    top: 7px;
+    left: 7px;
+    gap: 1px;
+    padding: 1px 0;
+  }
+
+  .flow-111 {
+    position: relative;
+    top: 12px;
+    left: 12px;
+
+    padding: 1px 0;
+  }
+}
+
+
+
+
+.Reclaimer-K {
+  position: absolute;
+  top: 30px;
+  left: 260px;
+}
+
+.Reclaimer-K2 {
+  position: absolute;
+  top: 104px;
+  left: 260px;
+}
+
+.Reclaimer-J1 {
+  position: absolute;
+  top: 188px;
+  left: 100px;
+}
+
+
+.Reclaimer-J2 {
+  position: absolute;
+  top: 188px;
+  left: 300px;
+}
+
+.Reclaimer-I1 {
+  position: absolute;
+  top: 270px;
+  left: 100px;
+}
+
+
+.Reclaimer-I2 {
+  position: absolute;
+  top: 270px;
+  left: 300px;
+}
+
+
+.Reclaimer-H {
+  position: absolute;
+  top: 347px;
+  left: 339px;
+}
+
+.Reclaimer-G {
+  position: absolute;
+  top: 435px;
+  left: 339px;
+}
+
+
+
+.Reclaimer-E {
+  position: absolute;
+  top: 530px;
+  left: 172px;
+}
+
+
+.Reclaimer-F {
+  position: absolute;
+  top: 650px;
+  left: 230px;
+}
+
+
+
+.Reclaimer-A1 {
+  position: absolute;
+  top: 530px;
+  left: 610px;
+}
+
+
+.Reclaimer-A2 {
+  position: absolute;
+  top: 530px;
+  left: 850px;
+}
+
+
+
+.Reclaimer-B {
+  position: absolute;
+  top: 667px;
+  left: 750px;
+}
+
+
+
+
+
+//SR的部分 
+
+.sr {
+  img {
+    width: 134px;
+    height: 67px;
+  }
+
+}
+
+.sr-K {
+  position: absolute;
+  top: 30px;
+  left: 120px;
+}
+
+.sr-K2 {
+  position: absolute;
+  top: 104px;
+  left: 410px;
+}
+
+
+.sr-H {
+  position: absolute;
+  top: 346px;
+  left: 200px;
+}
+
+.sr-G {
+  position: absolute;
+  top: 408px;
+  left: 200px;
+}
+
+
+
+.sr-E {
+  position: absolute;
+  top: 574px;
+  left: 96px;
+}
+
+
+.sr-F {
+  position: absolute;
+  top: 586px;
+  left: 300px;
+}
+
+
+
+.sr-A1 {
+  position: absolute;
+  top: 586px;
+  left: 540px;
+}
+
+
+.sr-A2 {
+  position: absolute;
+  top: 574px;
+  left: 770px;
+}
+
+.sr-B {
+  position: absolute;
+  top: 667px;
+  left: 610px;
+}
+
+
+
+
+
+//港口等待船
+.wait-boat {
+
+  //石
+  .wait-stone {
+    width: 20px;
+    height: 20px;
+
+
+    position: absolute;
+    top: 280px;
+    left: 1050px;
+  }
+
+  //煤
+  .wait-coal {
+    width: 20px;
+    height: 20px;
+
+    position: absolute;
+
+    top: 280px;
+    left: 1109px;
+  }
+
+  //鐵
+  .wait-iron {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 280px;
+    left: 1178px;
+  }
+
+
+}
+
+
+
+//港口的部分 
+
+
+
+.port {
+
+  width: 90px;
+  height: 70px;
+  background-image: url(../img/port.png);
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding-top: 3px;
+  gap: 6px;
+}
+
+
+
+
+.port-98-L {
+  position: absolute;
+  top: 390px;
+  left: 624px;
+
+}
+
+
+.port-98-R {
+  position: absolute;
+  top: 390px;
+  left: 780px;
+}
+
+
+
+.port-97-L {
+  position: absolute;
+  top: 390px;
+  left: 954px;
+
+}
+
+
+.port-97-R {
+  position: absolute;
+  top: 390px;
+  left: 1108px;
+}
+
+
+
+
+
+
+
+.port-101-L {
+  position: absolute;
+  top: 214px;
+  left: 648px;
+
+}
+
+
+.port-101-R {
+  position: absolute;
+  top: 214px;
+  left: 808px;
+}
+
+
+//船船船船船船船船船船船-------------------
+//石
+.boat-stone {
+  width: 100px;
+  height: 32.7px;
+  background-image: url(../img/boat-stone.png);
+  background-repeat: no-repeat;
+}
+
+//煤
+.boat-coal {
+  width: 100px;
+  height: 32.7px;
+  background-image: url(../img/boat-coal.png);
+  background-repeat: no-repeat;
+}
+
+//鐵
+.boat-iron {
+  width: 100px;
+  height: 32.7px;
+  background-image: url(../img/boat-iron.png);
+  background-repeat: no-repeat;
+}
+
+
+.boat-98-L {
+
+  position: absolute;
+  top: 460px;
+  left: 620px;
+}
+
+.boat-98-R {
+  position: absolute;
+  top: 460px;
+  left: 780px;
+}
+
+
+.boat-97-L {
+
+  position: absolute;
+  top: 460px;
+  left: 954px;
+}
+
+.boat-97-R {
+  position: absolute;
+  top: 460px;
+  left: 1106px;
+}
+
+.boat-101-L {
+
+  position: absolute;
+  top: 282px;
+  left: 648px;
+}
+
+.boat-101-R {
+  position: absolute;
+  top: 282px;
+  left: 808px;
+}
+
+
+
+
+
+
+//室內料場-----------------------------
+
+.室內料場 {
+  position: absolute;
+  top: 200px;
+  left: 542px;
+  writing-mode: vertical-rl;
+
+  button {
+    width: 30px;
+    height: 120px;
+    display: flex;
+    align-items: center;
+  }
+}
+
+
+
+//SCR的部分
+
+.scr-01-a {
+  width: 48px;
+  height: 57px;
+  background-image: url(../img/scr-01.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  p {
+    position: absolute;
+    width: 48px;
+    height: 12px;
+    top: 46px;
+    left: 0px;
+    text-align: center;
+
+  }
+
+}
+
+.scr-01-b {
+  width: 48px;
+  height: 57px;
+  background-image: url(../img/scr-01.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  p {
+    position: absolute;
+    width: 48px;
+    height: 12px;
+    top: 46px;
+    left: 0px;
+    text-align: center;
+
+  }
+
+}
+
+
+.scr-I1 {
+
+  position: absolute;
+  top: 274px;
+  left: 240px;
+}
+
+.scr-I2 {
+
+  position: absolute;
+  top: 274px;
+  left: 441px;
+}
+
+
+.scr-02 {
+  width: 48px;
+  height: 57px;
+  background-image: url(../img/scr-02.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  p {
+    position: absolute;
+    width: 48px;
+    height: 12px;
+    top: 1px;
+    left: 0px;
+    text-align: center;
+
+  }
+
+}
+
+
+.scr-J1 {
+  position: absolute;
+  top: 189px;
+  left: 244px;
+}
+
+
+.scr-J2 {
+  position: absolute;
+  top: 189px;
+  left: 444px;
+
+}
+
+
+
+
+
+
+//TR的部分
+.tr-01 {
+  width: 34px;
+  height: 24px;
+  background-image: url(../img/tr-01.png);
+  background-repeat: no-repeat;
+
+
+  p {
+    position: absolute;
+    width: 34px;
+    height: 12px;
+    top: 0px;
+    left: 0px;
+    text-align: center;
+
+  }
+
+}
+
+.tr-02 {
+  width: 34px;
+  height: 24px;
+  background-image: url(../img/tr-02.png);
+  background-repeat: no-repeat;
+
+
+  p {
+    position: absolute;
+    width: 34px;
+    height: 12px;
+    top: 12px;
+    left: 0px;
+    text-align: center;
+
+  }
+}
+
+
+
+
+.tr-I {
+  position: absolute;
+  top: 244px;
+  left: 496px;
+}
+
+
+.tr-J {
+  position: absolute;
+  top: 218px;
+  left: 496px;
+}
+
+
+
+
+//料倉、高爐
+
+.infobox-group {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+}
+
+
+.infobox {
+  width: 132px;
+  height: 126px;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid #4E8DB6;
+  /* 設置 實線框線 */
+
+
+  padding: 6px;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+
+  .details {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+}
+
+
+
+.infobox-group-2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 11px;
+  position: absolute;
+  top: 772px;
+}
+
+.infobox-group-3 {
+  width: 558px;
+  display: flex;
+  justify-content: space-between;
+  // border: 2px solid #bbbbbb;
+  background-color: #eaeaea;
+
+
+
+  .infobox-group-3-L {
+    width: 178px;
+    height: 188px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    background-position: bottom;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+
+  }
+
+  .infobox-group-3-R {
+    display: flex;
+    flex-wrap: wrap;
+    width: 380px;
+    gap: 8px;
+    justify-content: space-around;
+  }
+}
+
+
+
+.infobox-2 {
+  width: 120px;
+  height: 90px;
+  background-color: rgb(175, 32, 32);
+  border: 2px solid #4E8DB6;
+  display: flex;
+  justify-content: flex-start;
+
+  align-items: center;
+  gap: 6px;
+  background-image: url(../img/w11_高爐bg.png);
+  background-size: cover;
+
+
+
+
+
+  .position {
+    width: 30px;
+    height: 100%;
+    background-color: #4E8DB6;
+    writing-mode: vertical-rl;
+    /* 垂直顯示，從右到左 */
+    text-orientation: upright;
+    /* 使數字和拉丁字母保持水平 */
+
+
+  }
+
+
+  .details {
+    display: flex;
+    gap: 4px;
+    flex-direction: column;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//港口詳細
+// .port-details {
+
+//   width: 426px;
+//   height: 370px;
+//   background-image: url(../img/bg-01-b.png);
+//   background-repeat: no-repeat;
+//   margin: 10px;
+//   background-position: bottom;
+//   background-color: rgb(255, 255, 255);
+//   border: 2px solid #4E8DB6;
+//   flex-shrink: 0;
+//   /* 禁止 被壓縮 */
+
+// }
+
+
+
+.message {
+
+
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  gap: 10px;
+
+
+
+  //港口詳細
+  .port-details {
+    flex-shrink: 0;
+
+    width: 558px;
+    height: 172px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    // background-color: aquamarine;
+
+
+    .port-tpo {
+      width: 100%;
+      height: 32px;
+      display: flex;
+      flex-direction: row;
+      gap: 20px;
+      justify-content: space-between;
+      align-items: center;
+
+      .port-tpo-L {
+        width: 300px;
+        height: 24px;
+        background-color: #4E8DB6;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+
+    }
+
+    .port-content {
+      height: 140px;
+      display: flex;
+      justify-content: space-between;
+      // background-color: rgb(84, 188, 188);
+
+    }
+
+
+
+
+  }
+
+
+
+
+  //煤鐵石詳細
+  .material-details {
+
+
+    flex-shrink: 0;
+
+    width: 558px;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    // background-color: rgb(78, 191, 151);
+
+
+
+    .material-content {
+
+      display: flex;
+
+      .material-button {
+        width: 220px;
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+      }
+    }
+
+
+
+
+
+
+  }
+
+
+
+  //料場存量狀況
+  .silo-details {
+    flex-shrink: 0;
+
+    width: 558px;
+    height: 224px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    // background-color: rgb(220, 255, 193);
+
+
+
+
+    .silo-content {
+      display: flex;
+      justify-content: space-between;
+
+      .aaaaa {
+        background-color: aqua;
+        display: flex;
+        gap: 5px;
+
+        height: 20px;
+      }
+
+      button {
+        background-color: #4e8cb600;
+        border: 2px solid #4caf4f00;
+        /* 綠色邊框 */
+
+
+        .material-symbols-outlined {
+          font-family: 'Material Symbols Outlined';
+          font-weight: normal;
+          font-style: normal;
+          font-size: 10px;
+          line-height: 1;
+          letter-spacing: normal;
+          text-transform: none;
+          display: inline-block;
+          white-space: nowrap;
+          word-wrap: normal;
+          direction: ltr;
+          -webkit-font-smoothing: antialiased;
+        }
+      }
+
+
+      .silo-top {
+        display: flex;
+
+
+        .silo-top-L {
+          width: 360px;
+        }
+
+        .silo-top-R {
+          width: 180px;
+        }
+      }
+
+
+    }
+  }
+
+
+
+}
+
+
+
+//煤鐵石詳細
+// .material-details {
+
+//   width: 429px;
+//   height: 220px;
+//   background-image: url();
+//   background-repeat: no-repeat;
+//   margin: 10px;
+//   background-color: rgb(255, 255, 255);
+//   border: 2px solid #4E8DB6;
+//   flex-shrink: 0;
+//   /* 禁止 被壓縮 */
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+//料倉詳細
+
+// .silo-details {
+//   width: 426px;
+//   height: 200px;
+//   background-image: url(../img/);
+//   background-repeat: no-repeat;
+//   margin: 10px;
+
+//   background-color: rgb(255, 255, 255);
+//   border: 2px solid #4E8DB6;
+
+//   flex-shrink: 0;
+//   /* 禁止 被壓縮 */
+// }

@@ -1,0 +1,1014 @@
+@charset "UTF-8";
+.map {
+  width: 1260px;
+  height: 766px;
+  background-image: url(../img/w11_bg-3.png);
+  background-size: cover;
+  position: relative;
+  /* 讓子元素相對於這個父元素 */
+  flex-shrink: 0;
+  /* 禁止 被壓縮 */
+}
+
+.txt-8-B {
+  border-style: solid;
+  border-color: #303030;
+  border-width: 0px;
+  background-color: rgba(127, 255, 212, 0);
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-size: 8px;
+  width: 52px;
+  height: 12px;
+  padding: 0 0 0 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.txt-8-B-fff {
+  border-style: solid;
+  border-color: #303030;
+  border-width: 0px;
+  background-color: rgba(127, 255, 212, 0);
+  color: #ffffff;
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-size: 8px;
+  width: 100px;
+  height: 12px;
+  padding: 0 0 0 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.txt-10-B {
+  border-style: solid;
+  border-color: #303030;
+  border-width: 0px;
+  background-color: rgba(127, 255, 212, 0);
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-size: 10px;
+  width: 64px;
+  height: 12px;
+  /* padding: 0 0 0 1px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+}
+
+.txt-10-B-N {
+  border-style: solid;
+  border-color: #303030;
+  border-width: 0px;
+  background-color: rgba(127, 255, 212, 0);
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-size: 10px;
+  /* padding: 0 0 0 1px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-weight: 500;
+}
+
+.txt-10-B-fff {
+  border-style: solid;
+  border-color: #303030;
+  border-width: 0px;
+  background-color: rgba(127, 255, 212, 0);
+  color: #ffffff;
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-size: 10px;
+  width: 110px;
+  height: 12px;
+  padding: 0 0 0 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.txt-10-B-fff-N {
+  border-style: solid;
+  border-color: #303030;
+  border-width: 0px;
+  background-color: rgba(127, 255, 212, 0);
+  color: #ffffff;
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-size: 10px;
+  padding: 0 0 0 1px;
+}
+
+.txt-10-B-fff-N-bg {
+  border-style: solid;
+  border-width: 0px;
+  background-color: #c9c9c9;
+  color: #303030;
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-size: 10px;
+  border: 1px solid #707070;
+  /* 綠色邊框 */
+  padding: 0 0 0 1px;
+}
+
+.txt-18-B-N {
+  border-style: solid;
+  border-color: #303030;
+  border-width: 0px;
+  background-color: rgba(127, 255, 212, 0);
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  height: 12px;
+  /* padding: 0 0 0 1px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.txt-12-B-N {
+  border-color: #303030;
+  border-width: 0px;
+  background-color: rgba(127, 255, 212, 0);
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  /* padding: 0 0 0 1px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.txt-12-fff-N {
+  color: #ffffff;
+  border-width: 0px;
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.txt-12-N {
+  color: #303030;
+  border-width: 0px;
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.txt-14-B-fff-N {
+  border-style: solid;
+  border-color: #303030;
+  border-width: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  font-family: "NotoSansTc-Regular", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  color: #ffffff;
+  /* padding: 0 0 0 1px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lbl_datetime {
+  width: 142px;
+  height: 116px;
+  position: relative;
+  top: 56px;
+  left: 1064px;
+}
+.lbl_datetime span {
+  line-height: 30px;
+  text-align: center;
+}
+
+.datewind {
+  width: 100px;
+  height: 40px;
+  /* background-color: aqua; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 78px;
+  left: 1098px;
+  gap: 4px;
+}
+
+.flow {
+  width: 140px;
+  height: 60px;
+  background-image: url(../img/flow.png);
+  background-repeat: no-repeat;
+}
+.flow .flow-group {
+  display: flex;
+  position: relative;
+  top: 7px;
+  left: 7px;
+  gap: 1px;
+  padding: 1px 0;
+}
+.flow .flow-111 {
+  position: relative;
+  top: 12px;
+  left: 12px;
+  padding: 1px 0;
+}
+
+.Reclaimer-K {
+  position: absolute;
+  top: 30px;
+  left: 260px;
+}
+
+.Reclaimer-K2 {
+  position: absolute;
+  top: 104px;
+  left: 260px;
+}
+
+.Reclaimer-J1 {
+  position: absolute;
+  top: 188px;
+  left: 100px;
+}
+
+.Reclaimer-J2 {
+  position: absolute;
+  top: 188px;
+  left: 300px;
+}
+
+.Reclaimer-I1 {
+  position: absolute;
+  top: 270px;
+  left: 100px;
+}
+
+.Reclaimer-I2 {
+  position: absolute;
+  top: 270px;
+  left: 300px;
+}
+
+.Reclaimer-H {
+  position: absolute;
+  top: 347px;
+  left: 339px;
+}
+
+.Reclaimer-G {
+  position: absolute;
+  top: 435px;
+  left: 339px;
+}
+
+.Reclaimer-E {
+  position: absolute;
+  top: 530px;
+  left: 172px;
+}
+
+.Reclaimer-F {
+  position: absolute;
+  top: 650px;
+  left: 230px;
+}
+
+.Reclaimer-A1 {
+  position: absolute;
+  top: 530px;
+  left: 610px;
+}
+
+.Reclaimer-A2 {
+  position: absolute;
+  top: 530px;
+  left: 850px;
+}
+
+.Reclaimer-B {
+  position: absolute;
+  top: 667px;
+  left: 750px;
+}
+
+.sr img {
+  width: 134px;
+  height: 67px;
+}
+
+.sr-K {
+  position: absolute;
+  top: 30px;
+  left: 120px;
+}
+
+.sr-K2 {
+  position: absolute;
+  top: 104px;
+  left: 410px;
+}
+
+.sr-H {
+  position: absolute;
+  top: 346px;
+  left: 200px;
+}
+
+.sr-G {
+  position: absolute;
+  top: 408px;
+  left: 200px;
+}
+
+.sr-E {
+  position: absolute;
+  top: 574px;
+  left: 96px;
+}
+
+.sr-F {
+  position: absolute;
+  top: 586px;
+  left: 300px;
+}
+
+.sr-A1 {
+  position: absolute;
+  top: 586px;
+  left: 540px;
+}
+
+.sr-A2 {
+  position: absolute;
+  top: 574px;
+  left: 770px;
+}
+
+.sr-B {
+  position: absolute;
+  top: 667px;
+  left: 610px;
+}
+
+.wait-boat .wait-stone {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 280px;
+  left: 1050px;
+}
+.wait-boat .wait-coal {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 280px;
+  left: 1109px;
+}
+.wait-boat .wait-iron {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 280px;
+  left: 1178px;
+}
+
+.port {
+  width: 90px;
+  height: 70px;
+  background-image: url(../img/port.png);
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding-top: 3px;
+  gap: 6px;
+}
+
+.port-98-L {
+  position: absolute;
+  top: 390px;
+  left: 624px;
+}
+
+.port-98-R {
+  position: absolute;
+  top: 390px;
+  left: 780px;
+}
+
+.port-97-L {
+  position: absolute;
+  top: 390px;
+  left: 954px;
+}
+
+.port-97-R {
+  position: absolute;
+  top: 390px;
+  left: 1108px;
+}
+
+.port-101-L {
+  position: absolute;
+  top: 214px;
+  left: 648px;
+}
+
+.port-101-R {
+  position: absolute;
+  top: 214px;
+  left: 808px;
+}
+
+.boat-stone {
+  width: 100px;
+  height: 32.7px;
+  background-image: url(../img/boat-stone.png);
+  background-repeat: no-repeat;
+}
+
+.boat-coal {
+  width: 100px;
+  height: 32.7px;
+  background-image: url(../img/boat-coal.png);
+  background-repeat: no-repeat;
+}
+
+.boat-iron {
+  width: 100px;
+  height: 32.7px;
+  background-image: url(../img/boat-iron.png);
+  background-repeat: no-repeat;
+}
+
+.boat-98-L {
+  position: absolute;
+  top: 460px;
+  left: 620px;
+}
+
+.boat-98-R {
+  position: absolute;
+  top: 460px;
+  left: 780px;
+}
+
+.boat-97-L {
+  position: absolute;
+  top: 460px;
+  left: 954px;
+}
+
+.boat-97-R {
+  position: absolute;
+  top: 460px;
+  left: 1106px;
+}
+
+.boat-101-L {
+  position: absolute;
+  top: 282px;
+  left: 648px;
+}
+
+.boat-101-R {
+  position: absolute;
+  top: 282px;
+  left: 808px;
+}
+
+.室內料場 {
+  position: absolute;
+  top: 200px;
+  left: 542px;
+  writing-mode: vertical-rl;
+}
+.室內料場 button {
+  width: 30px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+}
+
+.scr-01-a {
+  width: 48px;
+  height: 57px;
+  background-image: url(../img/scr-01.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.scr-01-a p {
+  position: absolute;
+  width: 48px;
+  height: 12px;
+  top: 46px;
+  left: 0px;
+  text-align: center;
+}
+
+.scr-01-b {
+  width: 48px;
+  height: 57px;
+  background-image: url(../img/scr-01.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.scr-01-b p {
+  position: absolute;
+  width: 48px;
+  height: 12px;
+  top: 46px;
+  left: 0px;
+  text-align: center;
+}
+
+.scr-I1 {
+  position: absolute;
+  top: 274px;
+  left: 240px;
+}
+
+.scr-I2 {
+  position: absolute;
+  top: 274px;
+  left: 441px;
+}
+
+.scr-02 {
+  width: 48px;
+  height: 57px;
+  background-image: url(../img/scr-02.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.scr-02 p {
+  position: absolute;
+  width: 48px;
+  height: 12px;
+  top: 1px;
+  left: 0px;
+  text-align: center;
+}
+
+.scr-J1 {
+  position: absolute;
+  top: 189px;
+  left: 244px;
+}
+
+.scr-J2 {
+  position: absolute;
+  top: 189px;
+  left: 444px;
+}
+
+.tr-01 {
+  width: 34px;
+  height: 24px;
+  background-image: url(../img/tr-01.png);
+  background-repeat: no-repeat;
+}
+.tr-01 p {
+  position: absolute;
+  width: 34px;
+  height: 12px;
+  top: 0px;
+  left: 0px;
+  text-align: center;
+}
+
+.tr-02 {
+  width: 34px;
+  height: 24px;
+  background-image: url(../img/tr-02.png);
+  background-repeat: no-repeat;
+}
+.tr-02 p {
+  position: absolute;
+  width: 34px;
+  height: 12px;
+  top: 12px;
+  left: 0px;
+  text-align: center;
+}
+
+.tr-I {
+  position: absolute;
+  top: 244px;
+  left: 496px;
+}
+
+.tr-J {
+  position: absolute;
+  top: 218px;
+  left: 496px;
+}
+
+.infobox-group {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+}
+
+.infobox {
+  width: 132px;
+  height: 126px;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid #4E8DB6;
+  /* 設置 實線框線 */
+  padding: 6px;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.infobox .details {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.infobox-group-2 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 11px;
+  position: absolute;
+  top: 772px;
+}
+
+.infobox-group-3 {
+  width: 558px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #eaeaea;
+}
+.infobox-group-3 .infobox-group-3-L {
+  width: 178px;
+  height: 188px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+  background-position: bottom;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+}
+.infobox-group-3 .infobox-group-3-R {
+  display: flex;
+  flex-wrap: wrap;
+  width: 380px;
+  gap: 8px;
+  justify-content: space-around;
+}
+
+.infobox-2 {
+  width: 120px;
+  height: 90px;
+  background-color: rgb(175, 32, 32);
+  border: 2px solid #4E8DB6;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 6px;
+  background-image: url(../img/w11_高爐bg.png);
+  background-size: cover;
+}
+.infobox-2 .position {
+  width: 30px;
+  height: 100%;
+  background-color: #4E8DB6;
+  writing-mode: vertical-rl;
+  /* 垂直顯示，從右到左 */
+  text-orientation: upright;
+  /* 使數字和拉丁字母保持水平 */
+}
+.infobox-2 .details {
+  display: flex;
+  gap: 4px;
+  flex-direction: column;
+}
+
+.message {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  gap: 10px;
+}
+.message .port-details {
+  flex-shrink: 0;
+  width: 558px;
+  height: 172px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.message .port-details .port-tpo {
+  width: 100%;
+  height: 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: space-between;
+  align-items: center;
+}
+.message .port-details .port-tpo .port-tpo-L {
+  width: 300px;
+  height: 24px;
+  background-color: #4E8DB6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.message .port-details .port-content {
+  height: 140px;
+  display: flex;
+  justify-content: space-between;
+}
+.message .material-details {
+  flex-shrink: 0;
+  width: 558px;
+  height: 120px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.message .material-details .material-content {
+  display: flex;
+}
+.message .material-details .material-content .material-button {
+  width: 220px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.message .silo-details {
+  flex-shrink: 0;
+  width: 558px;
+  height: 224px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.message .silo-details .silo-content {
+  display: flex;
+  justify-content: space-between;
+}
+.message .silo-details .silo-content .aaaaa {
+  background-color: aqua;
+  display: flex;
+  gap: 5px;
+  height: 20px;
+}
+.message .silo-details .silo-content button {
+  background-color: rgba(78, 140, 182, 0);
+  border: 2px solid rgba(76, 175, 79, 0);
+  /* 綠色邊框 */
+}
+.message .silo-details .silo-content button .material-symbols-outlined {
+  font-family: "Material Symbols Outlined";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 10px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+}
+.message .silo-details .silo-content .silo-top {
+  display: flex;
+}
+.message .silo-details .silo-content .silo-top .silo-top-L {
+  width: 360px;
+}
+.message .silo-details .silo-content .silo-top .silo-top-R {
+  width: 180px;
+}
+
+/* 重置所有元素的邊距、內距、邊框、字體大小、字體及垂直對齊基準 */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* 將HTML5新增的語意元素設定為區塊元素 */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+/* 設定整個文件的行高為1，避免不必要的行高差異 */
+body {
+  line-height: 1;
+}
+
+/* 清除有序列表和無序列表的預設樣式 */
+ol,
+ul {
+  list-style: none;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  /* 去除底線 */
+  color: inherit;
+  /* 使用父元素的文字顏色 */
+}
+
+/* 清除引用樣式的引號 */
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+
+/* 清除表格的邊框塌陷和單元格間的間距 */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body {
+  width: auto;
+  height: 950px;
+  background-color: #ffffff;
+  padding: 0 10px 10px 10px;
+}
+
+nav {
+  width: auto;
+  height: 66px;
+  background-color: rgb(119, 119, 119);
+}
+
+.main {
+  display: flex;
+  width: 100%;
+  /* 讓 container 寬度填滿父容器 */
+}
+
+.button-01 {
+  background: #ffffff;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #b1b1b1;
+  border-width: 4px;
+  padding: 4px;
+  display: flex;
+  color: #505050;
+  gap: 0px;
+  flex-direction: column;
+  justify-content: center;
+  width: 104px;
+  position: relative;
+}
+
+.button-01:hover {
+  background-color: #ffffff;
+  /* 懸浮時背景顏色變化 */
+  color: #202020;
+  border-color: #EEB50E;
+}
+
+table {
+  border-collapse: collapse;
+  width: auto;
+}
+
+th,
+td {
+  border: 1px solid #707070;
+  width: 90px;
+  height: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+th {
+  background-color: #4E8DB6;
+  border: 1px solid #215374;
+}
+
+.th2 {
+  width: 160px;
+}
+
+td[colspan="2"] {
+  text-align: center;
+}/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,13 @@
+.map {
+
+  width: 1260px;
+  height: 766px;
+  background-image: url(../img/w11_bg-3.png);
+  background-size: cover;
+
+  position: relative;
+  /* 讓子元素相對於這個父元素 */
+
+  flex-shrink: 0;
+  /* 禁止 被壓縮 */
+}

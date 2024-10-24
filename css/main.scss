@@ -1,0 +1,238 @@
+@import './map';
+@import './txt';
+@import './message';
+
+
+
+
+
+
+/* 重置所有元素的邊距、內距、邊框、字體大小、字體及垂直對齊基準 */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  // padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* 將HTML5新增的語意元素設定為區塊元素 */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+/* 設定整個文件的行高為1，避免不必要的行高差異 */
+body {
+  line-height: 1;
+}
+
+/* 清除有序列表和無序列表的預設樣式 */
+ol,
+ul {
+  list-style: none;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  /* 去除底線 */
+  color: inherit;
+  /* 使用父元素的文字顏色 */
+}
+
+/* 清除引用樣式的引號 */
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+/* 清除表格的邊框塌陷和單元格間的間距 */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+
+
+
+
+//---------------------------------------
+body {
+  width: auto;
+  height: 950px;
+  background-color: #ffffff;
+  padding: 0 10px 10px 10px;
+
+}
+
+nav {
+  width: auto;
+  height: 66px;
+  background-color: rgb(119, 119, 119);
+
+}
+
+
+.main {
+  display: flex;
+  width: 100%;
+  /* 讓 container 寬度填滿父容器 */
+}
+
+
+
+.button-01 {
+  background: #ffffff;
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #b1b1b1;
+  border-width: 4px;
+  padding: 4px;
+  display: flex;
+  color: #505050;
+  gap: 0px;
+  flex-direction: column;
+
+  justify-content: center;
+
+  width: 104px;
+  position: relative;
+
+}
+
+.button-01:hover {
+  background-color: #ffffff;
+  /* 懸浮時背景顏色變化 */
+  color: #202020;
+  border-color: #EEB50E;
+}
+
+
+//--表格
+
+table {
+  border-collapse: collapse;
+  width: auto;
+
+}
+
+th,
+td {
+  border: 1px solid #707070;
+  width: 90px;
+  height: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+th {
+  background-color: #4E8DB6;
+  border: 1px solid #215374;
+}
+
+.th2 {
+  width: 160px;
+}
+
+td[colspan="2"] {
+  text-align: center;
+}
