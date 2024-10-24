@@ -1,8 +1,8 @@
 @charset "UTF-8";
 .map {
-  width: 1260px;
-  height: 766px;
-  background-image: url(../img/w11_bg-3.png);
+  width: 1360px;
+  height: 860px;
+  background-image: url(../img/w11_bg-5.png);
   background-size: cover;
   position: relative;
   /* 讓子元素相對於這個父元素 */
@@ -638,41 +638,6 @@
   gap: 2px;
 }
 
-.infobox-group-2 {
-  padding: 10px;
-  display: flex;
-  flex-direction: row;
-  gap: 11px;
-  position: absolute;
-  top: 772px;
-}
-
-.infobox-group-3 {
-  width: 558px;
-  display: flex;
-  justify-content: space-between;
-  background-color: #eaeaea;
-}
-.infobox-group-3 .infobox-group-3-L {
-  width: 178px;
-  height: 188px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  display: flex;
-  background-position: bottom;
-  flex-direction: column;
-  justify-content: center;
-  gap: 20px;
-  align-items: center;
-}
-.infobox-group-3 .infobox-group-3-R {
-  display: flex;
-  flex-wrap: wrap;
-  width: 380px;
-  gap: 8px;
-  justify-content: space-around;
-}
-
 .infobox-2 {
   width: 120px;
   height: 90px;
@@ -707,52 +672,27 @@
   gap: 10px;
 }
 .message .port-details {
+  width: 426px;
+  height: 370px;
+  background-image: url(../img/bg-01-b.png);
+  background-repeat: no-repeat;
+  margin: 10px;
+  background-position: bottom;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid #4E8DB6;
   flex-shrink: 0;
-  width: 558px;
-  height: 172px;
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
-}
-.message .port-details .port-tpo {
-  width: 100%;
-  height: 32px;
-  display: flex;
-  flex-direction: row;
-  gap: 20px;
-  justify-content: space-between;
-  align-items: center;
-}
-.message .port-details .port-tpo .port-tpo-L {
-  width: 300px;
-  height: 24px;
-  background-color: #4E8DB6;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.message .port-details .port-content {
-  height: 140px;
-  display: flex;
-  justify-content: space-between;
+  /* 禁止 被壓縮 */
 }
 .message .material-details {
+  width: 429px;
+  height: 220px;
+  background-image: url();
+  background-repeat: no-repeat;
+  margin: 10px;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid #4E8DB6;
   flex-shrink: 0;
-  width: 558px;
-  height: 120px;
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
-}
-.message .material-details .material-content {
-  display: flex;
-}
-.message .material-details .material-content .material-button {
-  width: 220px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
+  /* 禁止 被壓縮 */
 }
 .message .silo-details {
   flex-shrink: 0;
@@ -948,7 +888,6 @@ body {
   width: auto;
   height: 950px;
   background-color: #ffffff;
-  padding: 0 10px 10px 10px;
 }
 
 nav {
