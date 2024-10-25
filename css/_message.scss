@@ -33,6 +33,12 @@
 
 
 
+
+
+
+
+
+
 //資料框 的部分
 
 .flow {
@@ -229,48 +235,7 @@
 }
 
 
-
-
-
-//港口等待船 
-.wait-boat {
-
-  //石
-  .wait-stone {
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    top: 320px;
-    left: 1229px;
-  }
-
-  //煤
-  .wait-coal {
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    top: 320px;
-    left: 1170px;
-  }
-
-  //鐵
-  .wait-iron {
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    top: 320px;
-    left: 1296px;
-  }
-
-
-}
-
-
-
-//港口的部分 
-
-
-
+//港口的資料 (黃色旗子)
 .port {
 
   width: 90px;
@@ -403,6 +368,55 @@
   top: 282px;
   left: 808px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//港口等待船 
+.wait-boat {
+
+  //石
+  .wait-stone {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 320px;
+    left: 1229px;
+  }
+
+  //煤
+  .wait-coal {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 320px;
+    left: 1170px;
+  }
+
+  //鐵
+  .wait-iron {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 320px;
+    left: 1296px;
+  }
+
+
+}
+
 
 
 
@@ -580,75 +594,125 @@
 
 
 //料倉、高爐
-
-.infobox-group {
-  padding: 10px;
-  display: flex;
-  flex-direction: row;
-  gap: 3px;
-}
-
-
 .infobox {
-  width: 132px;
-  height: 126px;
-  background-color: rgb(255, 255, 255);
-  border: 2px solid #4E8DB6;
-  /* 設置 實線框線 */
-
-
-  padding: 6px;
+  width: 100px;
+  height: 120px;
+  background-color: #ffffff;
+  border: 2px solid #F0845E;
   display: flex;
-  gap: 10px;
   flex-direction: column;
+  gap: 10px;
+  padding: 4px;
 
-  .details {
+
+  .infobox-below {
     display: flex;
     flex-direction: column;
-    gap: 2px;
+    align-items: center;
+    gap: 1px;
   }
+
 }
 
-
-
-
-
-.infobox-2 {
-  width: 120px;
-  height: 90px;
-  background-color: rgb(175, 32, 32);
-  border: 2px solid #4E8DB6;
+.infobox-group-1 {
   display: flex;
-  justify-content: flex-start;
-
-  align-items: center;
-  gap: 6px;
-  background-image: url(../img/w11_高爐bg.png);
-  background-size: cover;
-
-
-
-
-
-  .position {
-    width: 30px;
-    height: 100%;
-    background-color: #4E8DB6;
-    writing-mode: vertical-rl;
-    /* 垂直顯示，從右到左 */
-    text-orientation: upright;
-    /* 使數字和拉丁字母保持水平 */
+  width: 210px;
+  height: 520px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #5d1fa9;
+  position: absolute;
+  top: 24px;
+  left: 20px;
+  gap: 10px;
 
 
-  }
-
-
-  .details {
-    display: flex;
-    gap: 4px;
-    flex-direction: column;
-  }
 }
+
+
+
+
+.infobox-group-2 {
+  display: flex;
+  width: 318px;
+  height: 210px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #1fa924;
+  position: absolute;
+  top: 24px;
+  left: 20px;
+  gap: 10px;
+}
+
+// .infobox-group {
+//   padding: 10px;
+//   display: flex;
+//   flex-direction: row;
+//   gap: 3px;
+// }
+
+
+// .infobox {
+//   width: 132px;
+//   height: 126px;
+//   background-color: rgb(255, 255, 255);
+//   border: 2px solid #4E8DB6;
+//   /* 設置 實線框線 */
+
+
+//   padding: 6px;
+//   display: flex;
+//   gap: 10px;
+//   flex-direction: column;
+
+//   .details {
+//     display: flex;
+//     flex-direction: column;
+//     gap: 2px;
+//   }
+// }
+
+
+
+
+
+// .infobox-2 {
+//   width: 120px;
+//   height: 90px;
+//   background-color: rgb(175, 32, 32);
+//   border: 2px solid #4E8DB6;
+//   display: flex;
+//   justify-content: flex-start;
+
+//   align-items: center;
+//   gap: 6px;
+//   background-image: url(../img/w11_高爐bg.png);
+//   background-size: cover;
+
+
+
+
+
+//   .position {
+//     width: 30px;
+//     height: 100%;
+//     background-color: #4E8DB6;
+//     writing-mode: vertical-rl;
+//     /* 垂直顯示，從右到左 */
+//     text-orientation: upright;
+//     /* 使數字和拉丁字母保持水平 */
+
+
+//   }
+
+
+//   .details {
+//     display: flex;
+//     gap: 4px;
+//     flex-direction: column;
+//   }
+// }
 
 
 

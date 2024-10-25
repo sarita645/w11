@@ -356,28 +356,6 @@
   left: 610px;
 }
 
-.wait-boat .wait-stone {
-  width: 20px;
-  height: 20px;
-  position: absolute;
-  top: 320px;
-  left: 1229px;
-}
-.wait-boat .wait-coal {
-  width: 20px;
-  height: 20px;
-  position: absolute;
-  top: 320px;
-  left: 1170px;
-}
-.wait-boat .wait-iron {
-  width: 20px;
-  height: 20px;
-  position: absolute;
-  top: 320px;
-  left: 1296px;
-}
-
 .port {
   width: 90px;
   height: 70px;
@@ -481,6 +459,28 @@
   position: absolute;
   top: 282px;
   left: 808px;
+}
+
+.wait-boat .wait-stone {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 320px;
+  left: 1229px;
+}
+.wait-boat .wait-coal {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 320px;
+  left: 1170px;
+}
+.wait-boat .wait-iron {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 320px;
+  left: 1296px;
 }
 
 .室內料場 {
@@ -610,55 +610,47 @@
   left: 496px;
 }
 
-.infobox-group {
-  padding: 10px;
-  display: flex;
-  flex-direction: row;
-  gap: 3px;
-}
-
 .infobox {
-  width: 132px;
-  height: 126px;
-  background-color: rgb(255, 255, 255);
-  border: 2px solid #4E8DB6;
-  /* 設置 實線框線 */
-  padding: 6px;
+  width: 100px;
+  height: 120px;
+  background-color: #ffffff;
+  border: 2px solid #F0845E;
   display: flex;
+  flex-direction: column;
   gap: 10px;
-  flex-direction: column;
+  padding: 4px;
 }
-.infobox .details {
+.infobox .infobox-below {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  align-items: center;
+  gap: 1px;
 }
 
-.infobox-2 {
-  width: 120px;
-  height: 90px;
-  background-color: rgb(175, 32, 32);
-  border: 2px solid #4E8DB6;
+.infobox-group-1 {
   display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 6px;
-  background-image: url(../img/w11_高爐bg.png);
-  background-size: cover;
+  width: 210px;
+  height: 520px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #5d1fa9;
+  position: absolute;
+  top: 24px;
+  left: 20px;
+  gap: 10px;
 }
-.infobox-2 .position {
-  width: 30px;
-  height: 100%;
-  background-color: #4E8DB6;
-  writing-mode: vertical-rl;
-  /* 垂直顯示，從右到左 */
-  text-orientation: upright;
-  /* 使數字和拉丁字母保持水平 */
-}
-.infobox-2 .details {
+
+.infobox-group-2 {
   display: flex;
-  gap: 4px;
-  flex-direction: column;
+  width: 318px;
+  height: 210px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #1fa924;
+  position: absolute;
+  top: 24px;
+  left: 20px;
+  gap: 10px;
 }
 
 .message {
