@@ -2,7 +2,7 @@
 .map {
   width: 1360px;
   height: 860px;
-  background-image: url(../img/w11_bg-5.png);
+  background-image: url(../img/w11_bg.png);
   background-size: cover;
   position: relative;
   /* 讓子元素相對於這個父元素 */
@@ -624,7 +624,7 @@
   background-color: rgba(115, 0, 255, 0.4901960784);
   position: absolute;
   top: 24px;
-  left: 20px;
+  left: 16px;
   gap: 8px;
 }
 
@@ -634,10 +634,10 @@
   height: 120px;
   flex-direction: row;
   flex-wrap: wrap;
-  background-color: rgba(0, 255, 8, 0.4196078431);
+  background-color: rgba(0, 255, 8, 0.262745098);
   position: absolute;
   top: 574px;
-  left: 20px;
+  left: 16px;
   gap: 8px;
 }
 
@@ -650,7 +650,7 @@
   background-color: rgba(0, 191, 255, 0.4666666667);
   position: absolute;
   top: 704px;
-  left: 20px;
+  left: 16px;
   gap: 10px;
 }
 
