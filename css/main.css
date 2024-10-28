@@ -356,6 +356,18 @@
   left: 808px;
 }
 
+.port {
+  width: 96px;
+  height: 82px;
+  background-image: url(../img/port.svg);
+  background-repeat: no-repeat;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  padding-top: 3px;
+  gap: 6px;
+}
+
 .port-98-L {
   position: absolute;
   top: 390px;

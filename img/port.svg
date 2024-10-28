@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_2" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95.99 81.89">
+  <g id="_圖層_2-2" data-name="圖層 2">
+    <g>
+      <path d="M3.97,9.49h78.89c6.02,0,10.91,4.89,10.91,10.91v25.61H3.97V9.49h0Z" style="opacity: .2;"/>
+      <rect x="3" y="21.62" width="92.96" height="21.8" style="fill: #fff;"/>
+      <path d="M3.36,8.13h79.99c5.28,0,9.57,4.29,9.57,9.57v5.94H3.36v-15.51h0Z" style="opacity: .2;"/>
+      <g>
+        <path d="M3,.06h82.77c5.64,0,10.22,4.58,10.22,10.22v11.34H3V.06h0Z" style="fill: #ecb512;"/>
+        <g style="opacity: .1;">
+          <polygon points="24.47 21.65 37.76 5.17 28.39 5.17 15.1 21.65 24.47 21.65" style="fill: #fff;"/>
+          <polygon points="44.35 5.17 39.66 5.17 26.37 21.65 31.06 21.65 44.35 5.17" style="fill: #fff;"/>
+        </g>
+      </g>
+      <line x1="3" y1="3" x2="3" y2="78.89" style="fill: none; stroke: #ecb512; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;"/>
+    </g>
+  </g>
+</svg>
