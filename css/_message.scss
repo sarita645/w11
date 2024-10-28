@@ -70,93 +70,93 @@
 
 
 
-.Reclaimer-K {
+.Reclaimer-sr-9 {
   position: absolute;
-  top: 30px;
-  left: 260px;
+  top: 36px;
+  left: 426px;
 }
 
-.Reclaimer-K2 {
+.Reclaimer-sr-8 {
   position: absolute;
-  top: 104px;
-  left: 260px;
+  top: 110px;
+  left: 426px;
 }
 
-.Reclaimer-J1 {
+.Reclaimer-scr-8 {
   position: absolute;
-  top: 188px;
-  left: 100px;
-}
-
-
-.Reclaimer-J2 {
-  position: absolute;
-  top: 188px;
-  left: 300px;
-}
-
-.Reclaimer-I1 {
-  position: absolute;
-  top: 270px;
-  left: 100px;
-}
-
-
-.Reclaimer-I2 {
-  position: absolute;
-  top: 270px;
-  left: 300px;
-}
-
-
-.Reclaimer-H {
-  position: absolute;
-  top: 347px;
-  left: 339px;
-}
-
-.Reclaimer-G {
-  position: absolute;
-  top: 435px;
-  left: 339px;
-}
-
-
-
-.Reclaimer-E {
-  position: absolute;
-  top: 530px;
-  left: 172px;
-}
-
-
-.Reclaimer-F {
-  position: absolute;
-  top: 650px;
+  top: 200px;
   left: 230px;
 }
 
 
-
-.Reclaimer-A1 {
+.Reclaimer-scr-7 {
   position: absolute;
-  top: 530px;
-  left: 610px;
+  top: 200px;
+  left: 426px;
+}
+
+.Reclaimer-scr-6 {
+  position: absolute;
+  top: 270px;
+  left: 230px;
 }
 
 
-.Reclaimer-A2 {
+.Reclaimer-scr-5 {
   position: absolute;
-  top: 530px;
-  left: 850px;
+  top: 270px;
+  left: 426px;
+}
+
+
+.Reclaimer-sr-6A {
+  position: absolute;
+  top: 378px;
+  left: 426px;
+}
+
+.Reclaimer-sr-5A {
+  position: absolute;
+  top: 469px;
+  left: 426px;
 }
 
 
 
-.Reclaimer-B {
+.Reclaimer-sr-4B {
   position: absolute;
-  top: 667px;
-  left: 750px;
+  top: 592px;
+  left: 426px;
+}
+
+
+.Reclaimer-sr-4A {
+  position: absolute;
+  top: 751px;
+  left: 426px;
+}
+
+
+
+.Reclaimer-sr-3B {
+  position: absolute;
+  top: 617px;
+  left: 904px;
+}
+
+
+.Reclaimer-3A {
+  position: absolute;
+  top: 617px;
+  left: 1120px;
+}
+
+
+
+.Reclaimer-sr-1B {
+  position: absolute;
+  top: 755px;
+  left: 952px;
 }
 
 
@@ -173,81 +173,86 @@
 
 }
 
-.sr-K {
+.sr-9 {
   position: absolute;
-  top: 30px;
-  left: 120px;
+  top: 45px;
+  left: 256px;
 }
 
-.sr-K2 {
+.sr-8 {
   position: absolute;
-  top: 104px;
-  left: 410px;
-}
-
-
-.sr-H {
-  position: absolute;
-  top: 346px;
-  left: 200px;
-}
-
-.sr-G {
-  position: absolute;
-  top: 408px;
-  left: 200px;
+  top: 116px;
+  left: 596px;
 }
 
 
-
-.sr-E {
+.sr-6A {
   position: absolute;
-  top: 574px;
-  left: 96px;
+  top: 383px;
+  left: 284px;
 }
 
-
-.sr-F {
+.sr-5A {
   position: absolute;
-  top: 586px;
-  left: 300px;
+  top: 445px;
+  left: 284px;
 }
 
 
 
-.sr-A1 {
+.sr-4B {
   position: absolute;
-  top: 586px;
-  left: 540px;
+  top: 658px;
+  left: 414px;
 }
 
 
-.sr-A2 {
+.sr-4A {
   position: absolute;
-  top: 574px;
-  left: 770px;
+  top: 686px;
+  left: 634px;
 }
 
-.sr-B {
+
+
+.sr-3B {
   position: absolute;
-  top: 667px;
-  left: 610px;
+  top: 658px;
+  left: 808px;
 }
+
+
+.sr-3A {
+  position: absolute;
+  top: 658px;
+  left: 1036px;
+}
+
+.sr-1B {
+  position: absolute;
+  top: 767px;
+  left: 808px;
+}
+
+
+
+
+
 
 
 //港口的資料 (黃色旗子)
-.port {
+// .port {
 
-  width: 90px;
-  height: 70px;
-  background-image: url(../img/port.png);
-  background-repeat: no-repeat;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  padding-top: 3px;
-  gap: 6px;
-}
+//   width: 90px;
+//   height: 70px;
+//   background-image: url(../img/port.png);
+//   background-repeat: no-repeat;
+//   align-items: center;
+//   display: flex;
+//   flex-direction: column;
+//   padding-top: 3px;
+//   gap: 6px;
+// }
 
 
 
@@ -482,18 +487,18 @@
 }
 
 
-.scr-I1 {
+.scr-6 {
 
   position: absolute;
   top: 274px;
-  left: 240px;
+  left: 374px;
 }
 
-.scr-I2 {
+.scr-5 {
 
   position: absolute;
   top: 274px;
-  left: 441px;
+  left: 576px;
 }
 
 
@@ -517,17 +522,17 @@
 }
 
 
-.scr-J1 {
+.scr-8 {
   position: absolute;
-  top: 189px;
-  left: 244px;
+  top: 207px;
+  left: 374px;
 }
 
 
-.scr-J2 {
+.scr-7 {
   position: absolute;
-  top: 189px;
-  left: 444px;
+  top: 207px;
+  left: 569px;
 
 }
 
@@ -579,15 +584,15 @@
 
 .tr-I {
   position: absolute;
-  top: 244px;
-  left: 496px;
+  top: 265px;
+  left: 630px;
 }
 
 
 .tr-J {
   position: absolute;
-  top: 218px;
-  left: 496px;
+  top: 236px;
+  left: 630px;
 }
 
 
@@ -620,11 +625,11 @@
   height: 520px;
   flex-direction: row;
   flex-wrap: wrap;
-  background-color: #5d1fa9;
+  background-color: #7300ff7d;
   position: absolute;
   top: 24px;
   left: 20px;
-  gap: 10px;
+  gap: 8px;
 
 
 }
@@ -635,90 +640,28 @@
 .infobox-group-2 {
   display: flex;
   width: 318px;
-  height: 210px;
+  height: 120px;
   flex-direction: row;
   flex-wrap: wrap;
-  background-color: #1fa924;
+  background-color: #00ff086b;
   position: absolute;
-  top: 24px;
+  top: 574px;
+  left: 20px;
+  gap: 8px;
+}
+
+.infobox-group-3 {
+  display: flex;
+  width: 318px;
+  height: 120px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: #00bfff77;
+  position: absolute;
+  top: 704px;
   left: 20px;
   gap: 10px;
 }
-
-// .infobox-group {
-//   padding: 10px;
-//   display: flex;
-//   flex-direction: row;
-//   gap: 3px;
-// }
-
-
-// .infobox {
-//   width: 132px;
-//   height: 126px;
-//   background-color: rgb(255, 255, 255);
-//   border: 2px solid #4E8DB6;
-//   /* 設置 實線框線 */
-
-
-//   padding: 6px;
-//   display: flex;
-//   gap: 10px;
-//   flex-direction: column;
-
-//   .details {
-//     display: flex;
-//     flex-direction: column;
-//     gap: 2px;
-//   }
-// }
-
-
-
-
-
-// .infobox-2 {
-//   width: 120px;
-//   height: 90px;
-//   background-color: rgb(175, 32, 32);
-//   border: 2px solid #4E8DB6;
-//   display: flex;
-//   justify-content: flex-start;
-
-//   align-items: center;
-//   gap: 6px;
-//   background-image: url(../img/w11_高爐bg.png);
-//   background-size: cover;
-
-
-
-
-
-//   .position {
-//     width: 30px;
-//     height: 100%;
-//     background-color: #4E8DB6;
-//     writing-mode: vertical-rl;
-//     /* 垂直顯示，從右到左 */
-//     text-orientation: upright;
-//     /* 使數字和拉丁字母保持水平 */
-
-
-//   }
-
-
-//   .details {
-//     display: flex;
-//     gap: 4px;
-//     flex-direction: column;
-//   }
-// }
-
-
-
-
-
-
 
 
 

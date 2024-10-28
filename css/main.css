@@ -219,82 +219,82 @@
   padding: 1px 0;
 }
 
-.Reclaimer-K {
+.Reclaimer-sr-9 {
   position: absolute;
-  top: 30px;
-  left: 260px;
+  top: 36px;
+  left: 426px;
 }
 
-.Reclaimer-K2 {
+.Reclaimer-sr-8 {
   position: absolute;
-  top: 104px;
-  left: 260px;
+  top: 110px;
+  left: 426px;
 }
 
-.Reclaimer-J1 {
+.Reclaimer-scr-8 {
   position: absolute;
-  top: 188px;
-  left: 100px;
-}
-
-.Reclaimer-J2 {
-  position: absolute;
-  top: 188px;
-  left: 300px;
-}
-
-.Reclaimer-I1 {
-  position: absolute;
-  top: 270px;
-  left: 100px;
-}
-
-.Reclaimer-I2 {
-  position: absolute;
-  top: 270px;
-  left: 300px;
-}
-
-.Reclaimer-H {
-  position: absolute;
-  top: 347px;
-  left: 339px;
-}
-
-.Reclaimer-G {
-  position: absolute;
-  top: 435px;
-  left: 339px;
-}
-
-.Reclaimer-E {
-  position: absolute;
-  top: 530px;
-  left: 172px;
-}
-
-.Reclaimer-F {
-  position: absolute;
-  top: 650px;
+  top: 200px;
   left: 230px;
 }
 
-.Reclaimer-A1 {
+.Reclaimer-scr-7 {
   position: absolute;
-  top: 530px;
-  left: 610px;
+  top: 200px;
+  left: 426px;
 }
 
-.Reclaimer-A2 {
+.Reclaimer-scr-6 {
   position: absolute;
-  top: 530px;
-  left: 850px;
+  top: 270px;
+  left: 230px;
 }
 
-.Reclaimer-B {
+.Reclaimer-scr-5 {
   position: absolute;
-  top: 667px;
-  left: 750px;
+  top: 270px;
+  left: 426px;
+}
+
+.Reclaimer-sr-6A {
+  position: absolute;
+  top: 378px;
+  left: 426px;
+}
+
+.Reclaimer-sr-5A {
+  position: absolute;
+  top: 469px;
+  left: 426px;
+}
+
+.Reclaimer-sr-4B {
+  position: absolute;
+  top: 592px;
+  left: 426px;
+}
+
+.Reclaimer-sr-4A {
+  position: absolute;
+  top: 751px;
+  left: 426px;
+}
+
+.Reclaimer-sr-3B {
+  position: absolute;
+  top: 617px;
+  left: 904px;
+}
+
+.Reclaimer-3A {
+  position: absolute;
+  top: 617px;
+  left: 1120px;
+}
+
+.Reclaimer-sr-1B {
+  position: absolute;
+  top: 755px;
+  left: 952px;
 }
 
 .sr img {
@@ -302,70 +302,58 @@
   height: 67px;
 }
 
-.sr-K {
+.sr-9 {
   position: absolute;
-  top: 30px;
-  left: 120px;
+  top: 45px;
+  left: 256px;
 }
 
-.sr-K2 {
+.sr-8 {
   position: absolute;
-  top: 104px;
-  left: 410px;
+  top: 116px;
+  left: 596px;
 }
 
-.sr-H {
+.sr-6A {
   position: absolute;
-  top: 346px;
-  left: 200px;
+  top: 383px;
+  left: 284px;
 }
 
-.sr-G {
+.sr-5A {
   position: absolute;
-  top: 408px;
-  left: 200px;
+  top: 445px;
+  left: 284px;
 }
 
-.sr-E {
+.sr-4B {
   position: absolute;
-  top: 574px;
-  left: 96px;
+  top: 658px;
+  left: 414px;
 }
 
-.sr-F {
+.sr-4A {
   position: absolute;
-  top: 586px;
-  left: 300px;
+  top: 686px;
+  left: 634px;
 }
 
-.sr-A1 {
+.sr-3B {
   position: absolute;
-  top: 586px;
-  left: 540px;
+  top: 658px;
+  left: 808px;
 }
 
-.sr-A2 {
+.sr-3A {
   position: absolute;
-  top: 574px;
-  left: 770px;
+  top: 658px;
+  left: 1036px;
 }
 
-.sr-B {
+.sr-1B {
   position: absolute;
-  top: 667px;
-  left: 610px;
-}
-
-.port {
-  width: 90px;
-  height: 70px;
-  background-image: url(../img/port.png);
-  background-repeat: no-repeat;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  padding-top: 3px;
-  gap: 6px;
+  top: 767px;
+  left: 808px;
 }
 
 .port-98-L {
@@ -528,16 +516,16 @@
   text-align: center;
 }
 
-.scr-I1 {
+.scr-6 {
   position: absolute;
   top: 274px;
-  left: 240px;
+  left: 374px;
 }
 
-.scr-I2 {
+.scr-5 {
   position: absolute;
   top: 274px;
-  left: 441px;
+  left: 576px;
 }
 
 .scr-02 {
@@ -556,16 +544,16 @@
   text-align: center;
 }
 
-.scr-J1 {
+.scr-8 {
   position: absolute;
-  top: 189px;
-  left: 244px;
+  top: 207px;
+  left: 374px;
 }
 
-.scr-J2 {
+.scr-7 {
   position: absolute;
-  top: 189px;
-  left: 444px;
+  top: 207px;
+  left: 569px;
 }
 
 .tr-01 {
@@ -600,14 +588,14 @@
 
 .tr-I {
   position: absolute;
-  top: 244px;
-  left: 496px;
+  top: 265px;
+  left: 630px;
 }
 
 .tr-J {
   position: absolute;
-  top: 218px;
-  left: 496px;
+  top: 236px;
+  left: 630px;
 }
 
 .infobox {
@@ -633,22 +621,35 @@
   height: 520px;
   flex-direction: row;
   flex-wrap: wrap;
-  background-color: #5d1fa9;
+  background-color: rgba(115, 0, 255, 0.4901960784);
   position: absolute;
   top: 24px;
   left: 20px;
-  gap: 10px;
+  gap: 8px;
 }
 
 .infobox-group-2 {
   display: flex;
   width: 318px;
-  height: 210px;
+  height: 120px;
   flex-direction: row;
   flex-wrap: wrap;
-  background-color: #1fa924;
+  background-color: rgba(0, 255, 8, 0.4196078431);
   position: absolute;
-  top: 24px;
+  top: 574px;
+  left: 20px;
+  gap: 8px;
+}
+
+.infobox-group-3 {
+  display: flex;
+  width: 318px;
+  height: 120px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: rgba(0, 191, 255, 0.4666666667);
+  position: absolute;
+  top: 704px;
   left: 20px;
   gap: 10px;
 }
