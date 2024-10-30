@@ -281,8 +281,8 @@
 
 .Reclaimer-sr-3B {
   position: absolute;
-  top: 617px;
-  left: 678px;
+  top: 725px;
+  left: 595px;
 }
 
 .Reclaimer-3A {
@@ -293,8 +293,8 @@
 
 .Reclaimer-sr-1B {
   position: absolute;
-  top: 755px;
-  left: 661px;
+  top: 769px;
+  left: 791px;
 }
 
 .sr img {
@@ -340,8 +340,8 @@
 
 .sr-3B {
   position: absolute;
-  top: 658px;
-  left: 590px;
+  top: 687px;
+  left: 705px;
 }
 
 .sr-3A {
@@ -353,7 +353,7 @@
 .sr-1B {
   position: absolute;
   top: 767px;
-  left: 808px;
+  left: 937px;
 }
 
 .port {
@@ -670,13 +670,14 @@
 
 .infobox-group-4 {
   display: flex;
-  width: 300px;
-  height: 140px;
+  width: 100px;
+  height: 120px;
   flex-direction: column;
   flex-wrap: wrap;
+  background-color: rgba(0, 255, 195, 0.467);
   position: absolute;
-  top: 565px;
-  left: 1033px;
+  top: 574px;
+  left: 1235px;
   gap: 10px;
   justify-content: center;
   align-content: flex-end;
@@ -684,15 +685,17 @@
 
 .infobox-group-5 {
   display: flex;
-  width: 100px;
-  height: 120px;
+  width: 300px;
+  height: 140px;
   flex-direction: column;
   flex-wrap: wrap;
   position: absolute;
-  top: 714px;
-  left: 1234px;
+  top: 694px;
+  left: 1034px;
   gap: 10px;
   justify-content: center;
+  align-items: flex-end;
+  align-content: flex-end;
 }
 
 .message {
