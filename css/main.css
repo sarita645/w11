@@ -356,43 +356,29 @@
   left: 937px;
 }
 
-.port {
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' id='_圖層_2' data-name='圖層 2' viewBox='0 0 95.99 81.89'%3E%3Cg id='_圖層_2-2' data-name='圖層 2'%3E%3Cg%3E%3Cpath d='M3.97,9.49h78.89c6.02,0,10.91,4.89,10.91,10.91v25.61H3.97V9.49h0Z' style='opacity: .2;'/%3E%3Crect x='3' y='21.62' width='92.96' height='21.8' style='fill: %23fff;'/%3E%3Cpath d='M3.36,8.13h79.99c5.28,0,9.57,4.29,9.57,9.57v5.94H3.36v-15.51h0Z' style='opacity: .2;'/%3E%3Cg%3E%3Cpath d='M3,.06h82.77c5.64,0,10.22,4.58,10.22,10.22v11.34H3V.06h0Z' style='fill: %23ecb512;'/%3E%3Cg style='opacity: .1;'%3E%3Cpolygon points='24.47 21.65 37.76 5.17 28.39 5.17 15.1 21.65 24.47 21.65' style='fill: %23fff;'/%3E%3Cpolygon points='44.35 5.17 39.66 5.17 26.37 21.65 31.06 21.65 44.35 5.17' style='fill: %23fff;'/%3E%3C/g%3E%3C/g%3E%3Cline x1='3' y1='3' x2='3' y2='78.89' style='fill: none; stroke: %23ecb512; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-  height: 80px;
-  min-width: 110px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  align-items: center;
-  display: flex;
-  flex-direction: column;
-  padding-top: 3px;
-  gap: 6px;
-}
-
 .port-mtr-format {
   display: flex;
   align-items: center;
   gap: 10px;
   justify-content: center;
-  padding: 10px 12px;
 }
 
 .port-98-L {
   position: absolute;
-  top: 400px;
-  left: 745px;
+  top: 392px;
+  left: 727px;
 }
 
 .port-97-L {
   position: absolute;
-  top: 400px;
-  left: 1068px;
+  top: 392px;
+  left: 1052px;
 }
 
 .port-101-L {
   position: absolute;
-  top: 224px;
-  left: 800px;
+  top: 214px;
+  left: 777px;
 }
 
 .boat-stone {
@@ -813,10 +799,38 @@
   width: 180px;
 }
 
-.oooooo {
-  width: 34px;
-  height: 64px;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' id='_圖層_2' data-name='圖層 2' viewBox='0 0 95.99 49.44'%3E%3Cg id='_圖層_2-2' data-name='圖層 2'%3E%3Cg%3E%3Cpath d='M3.36,8.22h79.99c5.28,0,9.57,4.29,9.57,9.57v5.94H3.36v-15.51h0Z' style='opacity: .2;'/%3E%3Cg%3E%3Cpath d='M3,.15h82.77c5.64,0,10.22,4.58,10.22,10.22v11.34H3V.15h0Z' style='fill: %23ecb512;'/%3E%3Cg style='opacity: .1;'%3E%3Cpolygon points='24.47 21.74 37.76 5.26 28.39 5.26 15.1 21.74 24.47 21.74' style='fill: %23fff;'/%3E%3Cpolygon points='44.35 5.26 39.66 5.26 26.37 21.74 31.06 21.74 44.35 5.26' style='fill: %23fff;'/%3E%3C/g%3E%3C/g%3E%3Cline x1='3' y1='3' x2='3' y2='46.44' style='fill: none; stroke: %23ecb512; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+.port2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* 調整旗幟的樣式 */
+  /* 上方標題的樣式 */
+  /* 內容區域樣式 */
+}
+.port2 .flag {
+  background-color: #f9a825;
+  border-radius: 10px;
+  padding: 6px 0 0 0;
+  display: inline-block;
+  min-width: 100px;
+}
+.port2 .flag .header {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.port2 .flag .content {
+  background-color: #fff;
+  padding: 6px 10px;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+  display: flex;
+  gap: 8px;
+}
+.port2 .flag .content .port-a {
+  background-color: #eaeaea;
+  padding: 6px 12px;
 }
 
 /* 重置所有元素的邊距、內距、邊框、字體大小、字體及垂直對齊基準 */
