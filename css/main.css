@@ -8,6 +8,7 @@
   /* 讓子元素相對於這個父元素 */
   flex-shrink: 0;
   /* 禁止 被壓縮 */
+  z-index: -99;
 }
 
 .txt-8-B {
@@ -465,7 +466,7 @@
 .scr-01-a {
   width: 48px;
   height: 57px;
-  background-image: url(../img/scr-01.svg);
+  background-image: url(../img/scr-01.gif);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -577,8 +578,8 @@
 }
 
 .infobox {
-  width: 100px;
-  height: 120px;
+  width: 160px;
+  height: 110px;
   background-color: #ffffff;
   border: 2px solid #F0845E;
   display: flex;
@@ -592,6 +593,9 @@
   align-items: center;
   gap: 1px;
 }
+.infobox .location-volume {
+  display: flex;
+}
 
 .infobox-group-1 {
   width: 210px;
@@ -602,32 +606,32 @@
 }
 .infobox-group-1 .infobox-group-1-1 {
   position: absolute;
-  top: 5px;
+  top: 15px;
   left: 4px;
 }
 .infobox-group-1 .infobox-group-1-2 {
   position: absolute;
-  top: 76px;
-  left: 108px;
+  top: 135px;
+  left: 4px;
 }
 .infobox-group-1 .infobox-group-1-3 {
   position: absolute;
-  top: 199px;
+  top: 260px;
   left: 4px;
 }
 .infobox-group-1 .infobox-group-1-4 {
   position: absolute;
-  top: 326px;
+  top: 380px;
   left: 4px;
 }
 .infobox-group-1 .infobox-group-1-5 {
   position: absolute;
-  top: 454px;
+  top: 500px;
   left: 4px;
 }
 .infobox-group-1 .infobox-group-1-6 {
   position: absolute;
-  top: 642px;
+  top: 620px;
   left: 4px;
 }
 
@@ -831,6 +835,38 @@
 .port2 .flag .content .port-a {
   background-color: #eaeaea;
   padding: 6px 12px;
+}
+
+.track {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: rgba(255, 0, 238, 0.1529411765);
+  width: 300px;
+  height: 200px;
+  z-index: -50;
+}
+.track .cl-9 {
+  position: absolute;
+  top: 97px;
+  left: 118px;
+  background-color: rgba(106, 255, 255, 0.435);
+  width: 574px;
+  height: 20px;
+  stroke: #F0845E;
+}
+.track .cl-8 {
+  position: absolute;
+  top: 170px;
+  left: 222px;
+  background-color: rgba(106, 255, 255, 0.435);
+  width: 468px;
+  height: 20px;
+  stroke: #F0845E;
+}
+
+.light-blue-500 {
+  stroke: var(light-blue-500);
 }
 
 /* 重置所有元素的邊距、內距、邊框、字體大小、字體及垂直對齊基準 */

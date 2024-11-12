@@ -1,0 +1,30 @@
+//BYPASS MODE
+$orange-500: #ff9800;
+
+//堆料模式
+$light-blue-500: #03a9f4;
+
+//取料模式
+$green-500: #4caf50;
+
+
+//防撞緊急停止
+$red-500: #f44336;
+
+//防撞正常停止
+$pink-400: #ec407a;
+
+
+//防撞範圍內
+$yellow-600: #fdd835;
+
+
+//無
+$grey-500: #9e9e9e;
+
+
+
+.light-blue-500 {
+  stroke: var(light-blue-500); // 使用 CSS 變數設定 stroke 顏色
+
+}
