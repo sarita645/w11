@@ -8,7 +8,7 @@
   /* 讓子元素相對於這個父元素 */
   flex-shrink: 0;
   /* 禁止 被壓縮 */
-  z-index: -99;
+  z-index: 0;
 }
 
 .txt-8-B {
