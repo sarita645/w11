@@ -126,14 +126,14 @@
 
 .Reclaimer-sr-4B {
   position: absolute;
-  top: 617px;
+  top: 602px;
   left: 440px;
 }
 
 
 .Reclaimer-sr-4A {
   position: absolute;
-  top: 751px;
+  top: 746px;
   left: 236px;
 }
 
@@ -141,23 +141,23 @@
 
 .Reclaimer-sr-3B {
   position: absolute;
-  top: 725px;
-  left: 595px;
+  top: 672px;
+  left: 815px;
 }
 
 
 .Reclaimer-sr-3A {
   position: absolute;
   top: 617px;
-  left: 911px;
+  left: 1141px;
 }
 
 
 
 .Reclaimer-sr-1B {
   position: absolute;
-  top: 769px;
-  left: 791px;
+  top: 750px;
+  left: 816px;
 }
 
 
@@ -203,14 +203,14 @@
 
 .sr-4B {
   position: absolute;
-  top: 658px;
+  top: 646px;
   left: 354px;
 }
 
 
 .sr-4A {
   position: absolute;
-  top: 686px;
+  top: 674px;
   left: 267px;
 }
 
@@ -218,21 +218,21 @@
 
 .sr-3B {
   position: absolute;
-  top: 687px;
-  left: 705px;
+  top: 675px;
+  left: 963px;
 }
 
 
 .sr-3A {
   position: absolute;
-  top: 658px;
-  left: 820px;
+  top: 646px;
+  left: 1057px;
 }
 
 .sr-1B {
   position: absolute;
-  top: 767px;
-  left: 937px;
+  top: 753px;
+  left: 966px;
 }
 
 
@@ -600,7 +600,7 @@
   border: 2px solid #F0845E;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 6px;
   padding: 4px;
 
 
@@ -608,7 +608,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1px;
+    gap: 4px;
   }
 
   .location-volume {
@@ -685,10 +685,10 @@
   height: 120px;
   flex-direction: column;
   flex-wrap: wrap;
-  background-color: rgba(0, 255, 195, 0.467);
+  // background-color: rgba(0, 255, 195, 0.467);
   position: absolute;
-  top: 574px;
-  left: 1235px;
+  top: 592px;
+  left: 682px;
   gap: 10px;
   justify-content: center;
   align-content: flex-end;
@@ -703,10 +703,9 @@
   height: 140px;
   flex-direction: column;
   flex-wrap: wrap;
-  // background-color: rgba(0, 191, 255, 0.4666666667);
   position: absolute;
-  top: 694px;
-  left: 1034px;
+  top: 702px;
+  left: 483px;
   gap: 10px;
   justify-content: center;
   align-items: flex-end;
@@ -1001,39 +1000,114 @@
 
 
 
-//--------------------軌道線路
+//--------------------路線
 
 .track {
   position: absolute;
   top: 0px;
   left: 0px;
-  background-color: #ff00ee27;
+  // background-color: #ff00ee27;
   width: 300px;
   height: 200px;
   z-index: -50;
 
 
-  .cl-9 {
+  .cl-8 {
     position: absolute;
     top: 97px;
     left: 118px;
-    background-color: rgba(106, 255, 255, 0.435);
+
     width: 574px;
     height: 20px;
-    stroke: #F0845E;
+    stroke: $pink-100;
+    stroke-width: 12px;
 
   }
 
-  .cl-8 {
+  .cl-7 {
     position: absolute;
-    top: 170px;
-    left: 222px;
-    background-color: rgba(106, 255, 255, 0.435);
-    width: 468px;
+    top: 172px;
+    left: 173px;
+
+    width: 518px;
     height: 20px;
-    stroke: #F0845E;
+    stroke-width: 12px;
+    stroke: $pink-100;
+
+  }
+
+  .cl-6 {
+    position: absolute;
+    top: 262px;
+    left: 173px;
+
+    width: 518px;
+    height: 111px;
+    stroke-width: 12px;
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: $pink-100;
 
   }
 
 
+  .cl-5 {
+    position: absolute;
+    top: 400px;
+    left: 173px;
+
+    width: 518px;
+    height: 111px;
+    stroke-width: 12px;
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: $pink-100;
+  }
+
+
+  .cl-4 {
+    position: absolute;
+    top: 475px;
+    left: 173px;
+
+    width: 518px;
+    height: 111px;
+    stroke-width: 12px;
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: $pink-100;
+  }
+
+
+  .cl-3 {
+    position: absolute;
+    top: 710px;
+    left: 118px;
+
+    width: 574px;
+    height: 20px;
+    stroke: $pink-100;
+    stroke-width: 12px;
+
+  }
+
+  .cl-2 {
+    position: absolute;
+    top: 649px;
+    left: 772px;
+
+    width: 574px;
+    height: 96px;
+    stroke: $pink-100;
+    stroke-width: 12px;
+  }
+
+
+  .cl-1 {
+    position: absolute;
+    top: 754px;
+    left: 772px;
+
+    width: 574px;
+    height: 96px;
+    stroke: $pink-100;
+    stroke-width: 12px;
+  }
 }
