@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_圖層_2" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 35 24">
-  <g id="_圖層_1-2" data-name="圖層 1">
-    <image width="35" height="24" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAYCAYAAABwZEQ3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADhSURBVHgB7ZY9CsIwFIDfS9pCf6QidBXPUHoAvYGrmzfwDJ7E0cFD6AE6eAbXgouFSrGNSSbRRiuktEM+SAJ5PPgSSN5DaOCQJEeGOIcfVIwtVml6Ak1YygClMHLdxtijquBWFKCbrzKTIGiMFWXZiQyBAWFkVBgZFUZGxaBkrH0crz92EcfQAkRc8vwZaIDW9Zl/tHT3HmDt8sW1boD/1DpghGxlOQg9D0Lfb53oOg5Mowh0cckyuUoZQgjYf57Q1nQjr5jXpMLIqDAyKoZVDsR05z3tNc+hb6SMaLDF6JsnQmItvaoloyIAAAAASUVORK5CYII="/>
+<svg id="uuid-ef37637c-d5da-4993-815c-ffd5f781e433" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81.09 55.84">
+  <g>
+    <rect x="3.74" y="30.33" width="73.91" height="22.06" transform="translate(81.38 82.72) rotate(180)" style="fill: none; stroke: #aa3535; stroke-miterlimit: 10; stroke-width: 7px;"/>
+    <rect x="48.88" y="3.2" width="16.37" height="27.13" transform="translate(114.14 33.53) rotate(180)" style="fill: none; stroke: #aa3535; stroke-miterlimit: 10; stroke-width: 7px;"/>
+  </g>
+  <g>
+    <rect x="3.74" y="30.33" width="73.91" height="22.06" transform="translate(81.38 82.72) rotate(180)" style="fill: #cd4d4d;"/>
+    <rect x="48.88" y="3.2" width="16.37" height="27.13" transform="translate(114.14 33.53) rotate(180)" style="fill: #cd4d4d;"/>
   </g>
 </svg>
