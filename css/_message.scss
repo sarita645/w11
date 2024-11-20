@@ -73,8 +73,8 @@
 
 .Reclaimer-sr-9 {
   position: absolute;
-  top: 36px;
-  left: 426px;
+  top: 22px;
+  left: 399px;
 }
 
 .Reclaimer-sr-8 {
@@ -176,7 +176,7 @@
 
 .sr-9 {
   position: absolute;
-  top: 45px;
+  top: 17px;
   left: 256px;
 }
 
@@ -195,8 +195,8 @@
 
 .sr-5A {
   position: absolute;
-  top: 445px;
-  left: 355px;
+  top: 450px;
+  left: 359px;
 }
 
 
@@ -1067,7 +1067,7 @@
 
 
 
-//--------------------路線
+//------路線
 
 .track {
   position: absolute;
@@ -1079,103 +1079,211 @@
   z-index: -50;
 
 
-  .cl-8 {
+  //K區
+
+  .cl-sr-9-101 {
     position: absolute;
     top: 66px;
     left: 118px;
     width: 1200px;
-    height: 1200px;
-    stroke: #b3e5fc;
+    height: 600px;
+    stroke: #18c563;
     stroke-width: 6px;
     stroke-linejoin: round;
 
   }
 
-  .cl-7 {
+  .cl-sr-9-98 {
+    position: absolute;
+    top: 66px;
+    left: 118px;
+    width: 1200px;
+    height: 600px;
+    stroke: #18c563;
+    stroke-width: 6px;
+    stroke-linejoin: round;
+
+  }
+
+  .cl-sr-9-97 {
+    position: absolute;
+    top: 66px;
+    left: 118px;
+    width: 1200px;
+    height: 600px;
+    stroke: #18c563;
+    stroke-width: 6px;
+    stroke-linejoin: round;
+
+  }
+
+
+
+
+  .cl-sr-8-101 {
     position: absolute;
     top: 172px;
-    left: 173px;
-
-    width: 518px;
-    height: 20px;
+    left: 118px;
+    width: 1000px;
+    height: 640px;
     stroke-width: 6px;
     stroke: #b3e5fc;
 
   }
 
-  .cl-6 {
+  .cl-sr-8-98 {
     position: absolute;
-    top: 262px;
-    left: 173px;
+    top: 172px;
+    left: 118px;
+    width: 1000px;
+    height: 640px;
+    stroke-width: 6px;
+    stroke: #b3e5fc;
 
-    width: 518px;
-    height: 111px;
+  }
+
+  .cl-sr-8-97 {
+    position: absolute;
+    top: 172px;
+    left: 118px;
+    width: 1200px;
+    height: 640px;
+    stroke-width: 6px;
+    stroke: #1e5671;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .cl-sr-6A-101 {
+    position: absolute;
+    top: 268px;
+    left: 330px;
+    width: 1000px;
+    height: 500px;
     stroke-width: 6px;
     stroke: rgba(40, 30, 84, 0.435);
-    stroke: $light-blue-100;
+    stroke: #378e3e;
 
   }
 
-
-  .cl-5 {
+  .cl-sr-6A-98 {
     position: absolute;
-    top: 400px;
-    left: 173px;
-
-    width: 518px;
-    height: 111px;
+    top: 268px;
+    left: 330px;
+    width: 1000px;
+    height: 500px;
     stroke-width: 6px;
-
-    stroke: $light-blue-100;
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: #03b512;
   }
 
-
-  .cl-4 {
+  .cl-sr-6A-97 {
     position: absolute;
-    top: 475px;
-    left: 173px;
-
-    width: 518px;
-    height: 111px;
+    top: 268px;
+    left: 330px;
+    width: 1000px;
+    height: 500px;
     stroke-width: 6px;
-
-    stroke: $light-blue-100;
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: #37728e;
   }
 
 
-  .cl-3 {
+
+  //G區
+
+  .cl-sr-5A-101 {
     position: absolute;
-    top: 710px;
-    left: 118px;
-
-    width: 574px;
-    height: 20px;
-    stroke: $light-blue-100;
+    top: 268px;
+    left: 330px;
+    width: 1000px;
+    height: 500px;
     stroke-width: 6px;
-
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: #f7b204;
   }
 
-  .cl-2 {
+  .cl-sr-5A-98 {
     position: absolute;
-    top: 700px;
-    left: 616px;
-
-    width: 574px;
-    height: 65px;
-    stroke: $light-blue-100;
+    top: 268px;
+    left: 330px;
+    width: 1000px;
+    height: 500px;
     stroke-width: 6px;
-    background-color: rgb(255, 225, 127);
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: #f7b204;
   }
 
-
-  .cl-1 {
+  .cl-sr-5A-97 {
     position: absolute;
-    top: 754px;
-    left: 772px;
-
-    width: 574px;
-    height: 96px;
-    stroke: $light-blue-100;
+    top: 268px;
+    left: 330px;
+    width: 1000px;
+    height: 500px;
     stroke-width: 6px;
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: #f7b204;
   }
+
+
+  // E區
+
+
+
+
+  .cl-sr-4B-101 {
+    position: absolute;
+    top: 234px;
+    left: 161px;
+    width: 1000px;
+    height: 600px;
+    stroke-width: 6px;
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: #03ecc5;
+
+  }
+
+  .cl-sr-4B-98 {
+    position: absolute;
+    top: 234px;
+    left: 161px;
+    width: 1000px;
+    height: 600px;
+    stroke-width: 6px;
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: #03ecc5;
+
+  }
+
+  .cl-sr-4B-97 {
+    position: absolute;
+    top: 234px;
+    left: 161px;
+    width: 1200px;
+    height: 600px;
+    stroke-width: 6px;
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: #03ecc5;
+
+  }
+
+
+
+
 }
