@@ -112,29 +112,29 @@
 
 .Reclaimer-sr-6A {
   position: absolute;
-  top: 378px;
-  left: 483px;
+  top: 374px;
+  left: 505px;
 }
 
 .Reclaimer-sr-5A {
   position: absolute;
-  top: 447px;
-  left: 483px;
+  top: 465px;
+  left: 505px;
 }
 
 
 
 .Reclaimer-sr-4B {
   position: absolute;
-  top: 602px;
-  left: 440px;
+  top: 619px;
+  left: 502px;
 }
 
 
 .Reclaimer-sr-4A {
   position: absolute;
   top: 746px;
-  left: 440px;
+  left: 294px;
 }
 
 
@@ -156,7 +156,7 @@
 
 .Reclaimer-sr-1B {
   position: absolute;
-  top: 750px;
+  top: 753px;
   left: 816px;
 }
 
@@ -189,13 +189,13 @@
 
 .sr-6A {
   position: absolute;
-  top: 383px;
+  top: 364px;
   left: 359px;
 }
 
 .sr-5A {
   position: absolute;
-  top: 450px;
+  top: 454px;
   left: 359px;
 }
 
@@ -203,14 +203,14 @@
 
 .sr-4B {
   position: absolute;
-  top: 646px;
-  left: 354px;
+  top: 649px;
+  left: 414px;
 }
 
 
 .sr-4A {
   position: absolute;
-  top: 674px;
+  top: 675px;
   left: 267px;
 }
 
@@ -231,7 +231,7 @@
 
 .sr-1B {
   position: absolute;
-  top: 753px;
+  top: 755px;
   left: 966px;
 }
 
@@ -240,35 +240,6 @@
 
 
 
-
-//港口的資料 (黃色旗子)
-// .port {
-//   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' id='_圖層_2' data-name='圖層 2' viewBox='0 0 95.99 116.96'%3E%3Cg id='_圖層_2-2' data-name='圖層 2'%3E%3Cg%3E%3Cpath d='M3.97,9.58h78.89c6.02,0,10.91,4.89,10.91,10.91v55.35H3.97V9.58h0Z' style='opacity: .2;'/%3E%3Crect x='3' y='21.71' width='92.96' height='50.64' style='fill: %23fff;'/%3E%3Cpath d='M3.36,8.22h79.99c5.28,0,9.57,4.29,9.57,9.57v5.94H3.36v-15.51h0Z' style='opacity: .2;'/%3E%3Cg%3E%3Cpath d='M3,.15h82.77c5.64,0,10.22,4.58,10.22,10.22v11.34H3V.15h0Z' style='fill: %23ecb512;'/%3E%3Cg style='opacity: .1;'%3E%3Cpolygon points='24.47 21.74 37.76 5.26 28.39 5.26 15.1 21.74 24.47 21.74' style='fill: %23fff;'/%3E%3Cpolygon points='44.35 5.26 39.66 5.26 26.37 21.74 31.06 21.74 44.35 5.26' style='fill: %23fff;'/%3E%3C/g%3E%3C/g%3E%3Cline x1='3' y1='3' x2='3' y2='113.96' style='fill: none; stroke: %23ecb512; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-//   width: 96px;
-//   height: 116px;
-//   background-size: cover;
-//   background-repeat: no-repeat;
-//   align-items: center;
-//   display: flex;
-//   flex-direction: column;
-//   padding-top: 3px;
-//   gap: 7px;
-
-// }
-
-
-// .port {
-//   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' id='_圖層_2' data-name='圖層 2' viewBox='0 0 95.99 81.89'%3E%3Cg id='_圖層_2-2' data-name='圖層 2'%3E%3Cg%3E%3Cpath d='M3.97,9.49h78.89c6.02,0,10.91,4.89,10.91,10.91v25.61H3.97V9.49h0Z' style='opacity: .2;'/%3E%3Crect x='3' y='21.62' width='92.96' height='21.8' style='fill: %23fff;'/%3E%3Cpath d='M3.36,8.13h79.99c5.28,0,9.57,4.29,9.57,9.57v5.94H3.36v-15.51h0Z' style='opacity: .2;'/%3E%3Cg%3E%3Cpath d='M3,.06h82.77c5.64,0,10.22,4.58,10.22,10.22v11.34H3V.06h0Z' style='fill: %23ecb512;'/%3E%3Cg style='opacity: .1;'%3E%3Cpolygon points='24.47 21.65 37.76 5.17 28.39 5.17 15.1 21.65 24.47 21.65' style='fill: %23fff;'/%3E%3Cpolygon points='44.35 5.17 39.66 5.17 26.37 21.65 31.06 21.65 44.35 5.17' style='fill: %23fff;'/%3E%3C/g%3E%3C/g%3E%3Cline x1='3' y1='3' x2='3' y2='78.89' style='fill: none; stroke: %23ecb512; stroke-linecap: round; stroke-miterlimit: 10; stroke-width: 6px;'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-//   height: 80px;
-//   min-width: 110px;
-//   background-size: cover;
-//   background-repeat: no-repeat;
-//   align-items: center;
-//   display: flex;
-//   flex-direction: column;
-//   padding-top: 3px;
-//   gap: 6px;
-// }
 
 
 
@@ -1087,7 +1058,7 @@
     left: 118px;
     width: 1200px;
     height: 600px;
-    stroke: #18c563;
+    stroke: #172a32;
     stroke-width: 6px;
     stroke-linejoin: round;
 
@@ -1243,8 +1214,8 @@
     width: 1000px;
     height: 500px;
     stroke-width: 6px;
-    stroke: rgba(40, 30, 84, 0.435);
-    stroke: #794673;
+
+    stroke: #ff5900;
   }
 
   .cl-scr-6-98 {
@@ -1254,8 +1225,7 @@
     width: 1000px;
     height: 500px;
     stroke-width: 6px;
-    stroke: rgba(40, 30, 84, 0.435);
-    stroke: #794673;
+    stroke: #ff5900;
 
   }
 
@@ -1266,8 +1236,7 @@
     width: 1000px;
     height: 500px;
     stroke-width: 6px;
-    stroke: rgba(40, 30, 84, 0.435);
-    stroke: #794673;
+    stroke: #ff5900;
 
   }
 
@@ -1281,7 +1250,7 @@
     height: 500px;
     stroke-width: 6px;
     stroke: rgba(40, 30, 84, 0.435);
-    stroke: #af8cab;
+    stroke: #00f208;
   }
 
   .cl-scr-5-98 {
@@ -1291,8 +1260,7 @@
     width: 1000px;
     height: 500px;
     stroke-width: 6px;
-    stroke: rgba(40, 30, 84, 0.435);
-    stroke: #af8cab;
+    stroke: #00f208;
 
   }
 
@@ -1300,11 +1268,11 @@
     position: absolute;
     top: 268px;
     left: 118px;
-    width: 1000px;
+    width: 1100px;
     height: 500px;
     stroke-width: 6px;
-    stroke: rgba(40, 30, 84, 0.435);
-    stroke: #af8cab;
+    stroke: #00f208;
+
 
   }
 
@@ -1401,8 +1369,8 @@
     width: 1000px;
     height: 600px;
     stroke-width: 6px;
-    stroke: rgba(40, 30, 84, 0.435);
-    stroke: #03ecc5;
+
+    stroke: #00ffd5;
 
   }
 
@@ -1414,7 +1382,7 @@
     height: 600px;
     stroke-width: 6px;
     stroke: rgba(40, 30, 84, 0.435);
-    stroke: #03ecc5;
+    stroke: #00ffd5;
 
   }
 
@@ -1426,7 +1394,7 @@
     height: 600px;
     stroke-width: 6px;
     stroke: rgba(40, 30, 84, 0.435);
-    stroke: #03ecc5;
+    stroke: #00ffd5;
 
   }
 
@@ -1485,7 +1453,7 @@
     height: 600px;
     stroke-width: 6px;
     stroke: rgba(40, 30, 84, 0.435);
-    stroke: #037fec;
+    stroke: #000000;
 
   }
 
@@ -1515,7 +1483,6 @@
   }
 
 
-
   .cl-sr-3B-101 {
     position: absolute;
     top: 250px;
@@ -1524,22 +1491,11 @@
     height: 600px;
     stroke-width: 6px;
     stroke: rgba(40, 30, 84, 0.435);
-    stroke: #9a03ec;
+    stroke: #9f1f1f;
+
 
   }
 
-
-  .cl-sr-3B-98 {
-    position: absolute;
-    top: 250px;
-    left: 649px;
-    width: 700px;
-    height: 600px;
-    stroke-width: 6px;
-    stroke: rgba(40, 30, 84, 0.435);
-    stroke: #9a03ec;
-
-  }
 
   .cl-sr-3B-97 {
     position: absolute;
@@ -1548,8 +1504,64 @@
     width: 700px;
     height: 600px;
     stroke-width: 6px;
+
+    stroke: #9f1f1f;
+
+  }
+
+  .cl-sr-3b-97 {
+    position: absolute;
+    top: 250px;
+    left: 649px;
+    width: 700px;
+    height: 600px;
+    stroke-width: 6px;
+
+    stroke: #9f1f1f;
+
+  }
+
+
+
+
+
+
+  //B區 路線
+
+  .cl-sr-1B-101 {
+    position: absolute;
+    top: 250px;
+    left: 649px;
+    width: 700px;
+    height: 600px;
+    stroke-width: 6px;
     stroke: rgba(40, 30, 84, 0.435);
-    stroke: #9a03ec;
+    stroke: #3300ff;
+
+  }
+
+
+  .cl-sr-1B-98 {
+    position: absolute;
+    top: 250px;
+    left: 649px;
+    width: 700px;
+    height: 600px;
+    stroke-width: 6px;
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: #ce1616;
+
+  }
+
+  .cl-sr-1B-97 {
+    position: absolute;
+    top: 250px;
+    left: 649px;
+    width: 700px;
+    height: 600px;
+    stroke-width: 6px;
+    stroke: rgba(40, 30, 84, 0.435);
+    stroke: #22e042;
 
   }
 

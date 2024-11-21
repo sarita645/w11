@@ -257,26 +257,26 @@
 
 .Reclaimer-sr-6A {
   position: absolute;
-  top: 378px;
-  left: 483px;
+  top: 374px;
+  left: 505px;
 }
 
 .Reclaimer-sr-5A {
   position: absolute;
-  top: 447px;
-  left: 483px;
+  top: 465px;
+  left: 505px;
 }
 
 .Reclaimer-sr-4B {
   position: absolute;
-  top: 602px;
-  left: 440px;
+  top: 619px;
+  left: 502px;
 }
 
 .Reclaimer-sr-4A {
   position: absolute;
   top: 746px;
-  left: 440px;
+  left: 294px;
 }
 
 .Reclaimer-sr-3B {
@@ -293,7 +293,7 @@
 
 .Reclaimer-sr-1B {
   position: absolute;
-  top: 750px;
+  top: 753px;
   left: 816px;
 }
 
@@ -316,25 +316,25 @@
 
 .sr-6A {
   position: absolute;
-  top: 383px;
+  top: 364px;
   left: 359px;
 }
 
 .sr-5A {
   position: absolute;
-  top: 450px;
+  top: 454px;
   left: 359px;
 }
 
 .sr-4B {
   position: absolute;
-  top: 646px;
-  left: 354px;
+  top: 649px;
+  left: 414px;
 }
 
 .sr-4A {
   position: absolute;
-  top: 674px;
+  top: 675px;
   left: 267px;
 }
 
@@ -352,7 +352,7 @@
 
 .sr-1B {
   position: absolute;
-  top: 753px;
+  top: 755px;
   left: 966px;
 }
 
@@ -867,7 +867,7 @@
   left: 118px;
   width: 1200px;
   height: 600px;
-  stroke: #18c563;
+  stroke: #172a32;
   stroke-width: 6px;
   stroke-linejoin: round;
 }
@@ -985,8 +985,7 @@
   width: 1000px;
   height: 500px;
   stroke-width: 6px;
-  stroke: rgba(40, 30, 84, 0.435);
-  stroke: #794673;
+  stroke: #ff5900;
 }
 .track .cl-scr-6-98 {
   position: absolute;
@@ -995,8 +994,7 @@
   width: 1000px;
   height: 500px;
   stroke-width: 6px;
-  stroke: rgba(40, 30, 84, 0.435);
-  stroke: #794673;
+  stroke: #ff5900;
 }
 .track .cl-scr-6-97 {
   position: absolute;
@@ -1005,8 +1003,7 @@
   width: 1000px;
   height: 500px;
   stroke-width: 6px;
-  stroke: rgba(40, 30, 84, 0.435);
-  stroke: #794673;
+  stroke: #ff5900;
 }
 .track .cl-scr-5-101 {
   position: absolute;
@@ -1016,7 +1013,7 @@
   height: 500px;
   stroke-width: 6px;
   stroke: rgba(40, 30, 84, 0.435);
-  stroke: #af8cab;
+  stroke: #00f208;
 }
 .track .cl-scr-5-98 {
   position: absolute;
@@ -1025,18 +1022,16 @@
   width: 1000px;
   height: 500px;
   stroke-width: 6px;
-  stroke: rgba(40, 30, 84, 0.435);
-  stroke: #af8cab;
+  stroke: #00f208;
 }
 .track .cl-scr-5-97 {
   position: absolute;
   top: 268px;
   left: 118px;
-  width: 1000px;
+  width: 1100px;
   height: 500px;
   stroke-width: 6px;
-  stroke: rgba(40, 30, 84, 0.435);
-  stroke: #af8cab;
+  stroke: #00f208;
 }
 .track .cl-sr-6A-101 {
   position: absolute;
@@ -1105,8 +1100,7 @@
   width: 1000px;
   height: 600px;
   stroke-width: 6px;
-  stroke: rgba(40, 30, 84, 0.435);
-  stroke: #03ecc5;
+  stroke: #00ffd5;
 }
 .track .cl-sr-4B-98 {
   position: absolute;
@@ -1116,7 +1110,7 @@
   height: 600px;
   stroke-width: 6px;
   stroke: rgba(40, 30, 84, 0.435);
-  stroke: #03ecc5;
+  stroke: #00ffd5;
 }
 .track .cl-sr-4B-97 {
   position: absolute;
@@ -1126,7 +1120,7 @@
   height: 600px;
   stroke-width: 6px;
   stroke: rgba(40, 30, 84, 0.435);
-  stroke: #03ecc5;
+  stroke: #00ffd5;
 }
 .track .cl-sr-4A-101 {
   position: absolute;
@@ -1166,7 +1160,7 @@
   height: 600px;
   stroke-width: 6px;
   stroke: rgba(40, 30, 84, 0.435);
-  stroke: #037fec;
+  stroke: #000000;
 }
 .track .cl-sr-3A-98 {
   position: absolute;
@@ -1196,17 +1190,7 @@
   height: 600px;
   stroke-width: 6px;
   stroke: rgba(40, 30, 84, 0.435);
-  stroke: #9a03ec;
-}
-.track .cl-sr-3B-98 {
-  position: absolute;
-  top: 250px;
-  left: 649px;
-  width: 700px;
-  height: 600px;
-  stroke-width: 6px;
-  stroke: rgba(40, 30, 84, 0.435);
-  stroke: #9a03ec;
+  stroke: #9f1f1f;
 }
 .track .cl-sr-3B-97 {
   position: absolute;
@@ -1215,8 +1199,46 @@
   width: 700px;
   height: 600px;
   stroke-width: 6px;
+  stroke: #9f1f1f;
+}
+.track .cl-sr-3b-97 {
+  position: absolute;
+  top: 250px;
+  left: 649px;
+  width: 700px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: #9f1f1f;
+}
+.track .cl-sr-1B-101 {
+  position: absolute;
+  top: 250px;
+  left: 649px;
+  width: 700px;
+  height: 600px;
+  stroke-width: 6px;
   stroke: rgba(40, 30, 84, 0.435);
-  stroke: #9a03ec;
+  stroke: #3300ff;
+}
+.track .cl-sr-1B-98 {
+  position: absolute;
+  top: 250px;
+  left: 649px;
+  width: 700px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #ce1616;
+}
+.track .cl-sr-1B-97 {
+  position: absolute;
+  top: 250px;
+  left: 649px;
+  width: 700px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #22e042;
 }
 
 /* 重置所有元素的邊距、內距、邊框、字體大小、字體及垂直對齊基準 */
