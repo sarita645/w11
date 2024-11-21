@@ -288,7 +288,7 @@
 .Reclaimer-sr-3A {
   position: absolute;
   top: 598px;
-  left: 987px;
+  left: 970px;
 }
 
 .Reclaimer-sr-1B {
@@ -335,7 +335,7 @@
 .sr-4A {
   position: absolute;
   top: 675px;
-  left: 267px;
+  left: 318px;
 }
 
 .sr-3B {
@@ -462,7 +462,7 @@
   align-items: center;
 }
 
-.scr-01-a {
+.scr-I {
   width: 24px;
   height: 57px;
   background-repeat: no-repeat;
@@ -481,7 +481,7 @@
   left: 641px;
 }
 
-.scr-02 {
+.scr-J {
   width: 24px;
   height: 57px;
   background-repeat: no-repeat;
@@ -504,16 +504,16 @@
   width: 16px;
   height: 30px;
   position: absolute;
-  top: 279px;
-  left: 209px;
+  top: 277px;
+  left: 215px;
 }
 
 .tr-J {
   width: 16px;
   height: 30px;
   position: absolute;
-  top: 255px;
-  left: 651px;
+  top: 254px;
+  left: 646px;
 }
 
 .infobox {
@@ -537,7 +537,7 @@
 }
 
 .infobox-group-1 {
-  width: 210px;
+  width: 160px;
   height: 800px;
   position: absolute;
   top: 24px;
