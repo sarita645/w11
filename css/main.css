@@ -276,19 +276,19 @@
 .Reclaimer-sr-4A {
   position: absolute;
   top: 746px;
-  left: 236px;
+  left: 440px;
 }
 
 .Reclaimer-sr-3B {
   position: absolute;
-  top: 672px;
-  left: 715px;
+  top: 598px;
+  left: 783px;
 }
 
 .Reclaimer-sr-3A {
   position: absolute;
   top: 598px;
-  left: 941px;
+  left: 987px;
 }
 
 .Reclaimer-sr-1B {
@@ -673,7 +673,7 @@
   flex-direction: column;
   flex-wrap: wrap;
   position: absolute;
-  top: 726px;
+  top: 720px;
   left: 1050px;
   gap: 10px;
   justify-content: center;
@@ -918,6 +918,126 @@
   stroke-width: 6px;
   stroke: #1e5671;
 }
+.track .cl-scr-7-101 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #ff00e1;
+}
+.track .cl-scr-7-98 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #ff00e1;
+}
+.track .cl-scr-7-97 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #ff00e1;
+}
+.track .cl-scr-8-101 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #911783;
+}
+.track .cl-scr-8-98 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #911783;
+}
+.track .cl-scr-8-97 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #911783;
+}
+.track .cl-scr-6-101 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #794673;
+}
+.track .cl-scr-6-98 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #794673;
+}
+.track .cl-scr-6-97 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #794673;
+}
+.track .cl-scr-5-101 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #af8cab;
+}
+.track .cl-scr-5-98 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #af8cab;
+}
+.track .cl-scr-5-97 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #af8cab;
+}
 .track .cl-sr-6A-101 {
   position: absolute;
   top: 268px;
@@ -1007,6 +1127,96 @@
   stroke-width: 6px;
   stroke: rgba(40, 30, 84, 0.435);
   stroke: #03ecc5;
+}
+.track .cl-sr-4A-101 {
+  position: absolute;
+  top: 234px;
+  left: 160px;
+  width: 1000px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #ec03d1;
+}
+.track .cl-sr-4A-98 {
+  position: absolute;
+  top: 234px;
+  left: 160px;
+  width: 1000px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #ec03d1;
+}
+.track .cl-sr-4A-97 {
+  position: absolute;
+  top: 234px;
+  left: 160px;
+  width: 1200px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #ec03d1;
+}
+.track .cl-sr-3A-101 {
+  position: absolute;
+  top: 250px;
+  left: 649px;
+  width: 700px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #037fec;
+}
+.track .cl-sr-3A-98 {
+  position: absolute;
+  top: 250px;
+  left: 649px;
+  width: 700px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #1262a8;
+}
+.track .cl-sr-3A-97 {
+  position: absolute;
+  top: 250px;
+  left: 649px;
+  width: 700px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #3b88ca;
+}
+.track .cl-sr-3B-101 {
+  position: absolute;
+  top: 250px;
+  left: 649px;
+  width: 700px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #9a03ec;
+}
+.track .cl-sr-3B-98 {
+  position: absolute;
+  top: 250px;
+  left: 649px;
+  width: 700px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #9a03ec;
+}
+.track .cl-sr-3B-97 {
+  position: absolute;
+  top: 250px;
+  left: 649px;
+  width: 700px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: rgba(40, 30, 84, 0.435);
+  stroke: #9a03ec;
 }
 
 /* 重置所有元素的邊距、內距、邊框、字體大小、字體及垂直對齊基準 */
