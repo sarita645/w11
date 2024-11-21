@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="uuid-66401143-5150-4922-854d-74f1a1853df0" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81.09 55.84">
-  <g>
-    <rect x="3.74" y="3.2" width="73.91" height="22.06" style="fill: none; stroke: #aa3535; stroke-miterlimit: 10; stroke-width: 7px;"/>
-    <rect x="16.13" y="25.26" width="16.37" height="27.13" style="fill: none; stroke: #aa3535; stroke-miterlimit: 10; stroke-width: 7px;"/>
-  </g>
-  <g>
-    <rect x="3.74" y="3.2" width="73.91" height="22.06" style="fill: #cd4d4d;"/>
-    <rect x="16.13" y="25.26" width="16.37" height="27.13" style="fill: #cd4d4d;"/>
+<svg id="uuid-7d7730cc-7857-40ea-b62b-8676a410c331" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 23.66">
+  <g id="uuid-acdb577a-bfca-4a37-86c1-79063b5e9400" data-name="圖層 4">
+    <g>
+      <rect width="16" height="11.87" transform="translate(16 11.87) rotate(180)" style="fill: #cd4d4d;"/>
+      <rect x="2.11" y="14.07" width="11.79" height="7.4" transform="translate(-9.76 25.76) rotate(-90)" style="fill: #cd4d4d;"/>
+    </g>
   </g>
 </svg>
