@@ -1,108 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="uuid-43daff3d-42aa-48ea-a02e-4e4180544a2f" data-name="圖層 7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671 335">
+<svg id="uuid-acbb7e4e-6f2d-445c-aec7-d3d16aa126d4" data-name="圖層 7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 671 335">
   <g>
-    <polygon points="265.94 239.71 341.44 239.71 321.06 24.48 295.51 24.48 265.94 239.71" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
-    <polygon points="207.5 285.39 341.44 285.39 341.44 239.71 241.57 239.71 207.5 257.26 207.5 285.39" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
-    <rect x="341.44" y="239.71" width="240.77" height="10.45" transform="translate(923.65 489.87) rotate(-180)" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
-    <rect x="46.47" y="107.58" width="240.77" height="10.45" transform="translate(333.71 225.61) rotate(-180)" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
-    <polygon points="316.27 29.65 572.53 245.78 577.2 240.61 320.94 24.48 316.27 29.65" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
-    <polygon points="298.63 30.7 49.62 112.81 46.47 106.59 295.48 24.48 298.63 30.7" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
+    <polygon points="265.94 239.71 341.44 239.71 321.06 24.48 295.51 24.48 265.94 239.71" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
+    <polygon points="207.5 285.39 341.44 285.39 341.44 239.71 241.57 239.71 207.5 257.26 207.5 285.39" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
+    <rect x="341.44" y="239.71" width="240.77" height="10.45" transform="translate(923.65 489.87) rotate(-180)" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
+    <rect x="46.47" y="107.58" width="240.77" height="10.45" transform="translate(333.71 225.61) rotate(-180)" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
+    <polygon points="316.27 29.65 572.53 245.78 577.2 240.61 320.94 24.48 316.27 29.65" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
+    <polygon points="298.63 30.7 49.62 112.81 46.47 106.59 295.48 24.48 298.63 30.7" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 12px;"/>
   </g>
   <g>
-    <polygon points="265.94 239.71 341.44 239.71 321.06 24.48 295.51 24.48 265.94 239.71" style="fill: #267dcd;"/>
-    <polygon points="207.5 285.39 341.44 285.39 341.44 239.71 241.57 239.71 207.5 257.26 207.5 285.39" style="fill: #267dcd;"/>
-    <rect x="341.44" y="239.71" width="240.77" height="10.45" transform="translate(923.65 489.87) rotate(-180)" style="fill: #267dcd;"/>
-    <rect x="46.47" y="107.58" width="240.77" height="10.45" transform="translate(333.71 225.61) rotate(-180)" style="fill: #267dcd;"/>
-    <polygon points="316.27 29.65 572.53 245.78 577.2 240.61 320.94 24.48 316.27 29.65" style="fill: #267dcd;"/>
-    <polygon points="298.63 30.7 49.62 112.81 46.47 106.59 295.48 24.48 298.63 30.7" style="fill: #267dcd;"/>
+    <polygon points="265.94 239.71 341.44 239.71 321.06 24.48 295.51 24.48 265.94 239.71" style="fill: #3893ec;"/>
+    <polygon points="207.5 285.39 341.44 285.39 341.44 239.71 241.57 239.71 207.5 257.26 207.5 285.39" style="fill: #3893ec;"/>
+    <rect x="341.44" y="239.71" width="240.77" height="10.45" transform="translate(923.65 489.87) rotate(-180)" style="fill: #3893ec;"/>
+    <rect x="46.47" y="107.58" width="240.77" height="10.45" transform="translate(333.71 225.61) rotate(-180)" style="fill: #3893ec;"/>
+    <polygon points="316.27 29.65 572.53 245.78 577.2 240.61 320.94 24.48 316.27 29.65" style="fill: #3893ec;"/>
+    <polygon points="298.63 30.7 49.62 112.81 46.47 106.59 295.48 24.48 298.63 30.7" style="fill: #3893ec;"/>
   </g>
-  <circle cx="46.47" cy="112.81" r="27.02" style="fill: #267dcd;"/>
+  <circle cx="46.47" cy="112.81" r="27.02" style="fill: #3893ec;"/>
   <g>
     <g>
-      <g id="uuid-ad189c5b-0d59-42a7-81a5-72454c57ad7f" data-name="&amp;lt;放射狀重複&amp;gt;">
+      <g id="uuid-a0146686-b9bc-4456-a158-9e3a39327e0b" data-name="&amp;lt;放射狀重複&amp;gt;">
         <g>
           <g>
-            <polygon points="579.73 191.2 601.55 205.49 612.97 188.05 581.1 167.18 579.73 191.2" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
-            <polygon points="579.92 215.26 603.25 221.95 612.97 188.01 583.88 193.92 579.92 215.26" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="579.73 191.2 601.55 205.49 612.97 188.05 581.1 167.18 579.73 191.2" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="579.92 215.26 603.25 221.95 612.97 188.01 583.88 193.92 579.92 215.26" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
           </g>
-          <polygon points="579.73 191.2 601.55 205.49 612.97 188.05 581.1 167.18 579.73 191.2" style="fill: #207ecd;"/>
-          <polygon points="579.92 215.26 603.25 221.95 612.97 188.01 583.88 193.92 579.92 215.26" style="fill: #207ecd;"/>
+          <polygon points="579.73 191.2 601.55 205.49 612.97 188.05 581.1 167.18 579.73 191.2" style="fill: #3d99ec;"/>
+          <polygon points="579.92 215.26 603.25 221.95 612.97 188.01 583.88 193.92 579.92 215.26" style="fill: #3d99ec;"/>
         </g>
       </g>
-      <g id="uuid-503e9d9a-1a05-4368-95b2-5f6d3b941961" data-name="&amp;lt;放射狀重複&amp;gt;">
+      <g id="uuid-1afa08df-83cb-4c9e-992f-46269f106497" data-name="&amp;lt;放射狀重複&amp;gt;">
         <g>
           <g>
-            <polygon points="544.98 205.1 570.51 199.77 566.26 179.37 528.96 187.15 544.98 205.1" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
-            <polygon points="562.13 221.98 583.35 210.21 566.23 179.34 549.83 204.09 562.13 221.98" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="544.98 205.1 570.51 199.77 566.26 179.37 528.96 187.15 544.98 205.1" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="562.13 221.98 583.35 210.21 566.23 179.34 549.83 204.09 562.13 221.98" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
           </g>
-          <polygon points="544.98 205.1 570.51 199.77 566.26 179.37 528.96 187.15 544.98 205.1" style="fill: #207ecd;"/>
-          <polygon points="562.13 221.98 583.35 210.21 566.23 179.34 549.83 204.09 562.13 221.98" style="fill: #207ecd;"/>
+          <polygon points="544.98 205.1 570.51 199.77 566.26 179.37 528.96 187.15 544.98 205.1" style="fill: #3d99ec;"/>
+          <polygon points="562.13 221.98 583.35 210.21 566.23 179.34 549.83 204.09 562.13 221.98" style="fill: #3d99ec;"/>
         </g>
       </g>
-      <g id="uuid-b4418cd0-a055-4ce2-89e8-9cdd467a0ad6" data-name="&amp;lt;放射狀重複&amp;gt;">
+      <g id="uuid-eb838dd8-5b78-45bf-9dba-ac596e8fd19a" data-name="&amp;lt;放射狀重複&amp;gt;">
         <g>
           <g>
-            <polygon points="530.23 239.5 544.52 217.68 527.08 206.26 506.22 238.13 530.23 239.5" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
-            <polygon points="554.29 239.31 560.98 215.98 527.04 206.26 532.95 235.36 554.29 239.31" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="530.23 239.5 544.52 217.68 527.08 206.26 506.22 238.13 530.23 239.5" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="554.29 239.31 560.98 215.98 527.04 206.26 532.95 235.36 554.29 239.31" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
           </g>
-          <polygon points="530.23 239.5 544.52 217.68 527.08 206.26 506.22 238.13 530.23 239.5" style="fill: #207ecd;"/>
-          <polygon points="554.29 239.31 560.98 215.98 527.04 206.26 532.95 235.36 554.29 239.31" style="fill: #207ecd;"/>
+          <polygon points="530.23 239.5 544.52 217.68 527.08 206.26 506.22 238.13 530.23 239.5" style="fill: #3d99ec;"/>
+          <polygon points="554.29 239.31 560.98 215.98 527.04 206.26 532.95 235.36 554.29 239.31" style="fill: #3d99ec;"/>
         </g>
       </g>
-      <g id="uuid-bc394c03-d2b5-4c84-9427-1ccfe8b9154a" data-name="&amp;lt;放射狀重複&amp;gt;">
+      <g id="uuid-bc630ae9-1136-4056-ad84-d2d0f0049529" data-name="&amp;lt;放射狀重複&amp;gt;">
         <g>
           <g>
-            <polygon points="544.13 274.25 538.81 248.72 518.4 252.98 526.18 290.27 544.13 274.25" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
-            <polygon points="561.01 257.1 549.24 235.89 518.37 253.01 543.12 269.4 561.01 257.1" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="544.13 274.25 538.81 248.72 518.4 252.98 526.18 290.27 544.13 274.25" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="561.01 257.1 549.24 235.89 518.37 253.01 543.12 269.4 561.01 257.1" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
           </g>
-          <polygon points="544.13 274.25 538.81 248.72 518.4 252.98 526.18 290.27 544.13 274.25" style="fill: #207ecd;"/>
-          <polygon points="561.01 257.1 549.24 235.89 518.37 253.01 543.12 269.4 561.01 257.1" style="fill: #207ecd;"/>
+          <polygon points="544.13 274.25 538.81 248.72 518.4 252.98 526.18 290.27 544.13 274.25" style="fill: #3d99ec;"/>
+          <polygon points="561.01 257.1 549.24 235.89 518.37 253.01 543.12 269.4 561.01 257.1" style="fill: #3d99ec;"/>
         </g>
       </g>
-      <g id="uuid-c0cb678a-2831-4a30-82c6-ca9884a8f9d1" data-name="&amp;lt;放射狀重複&amp;gt;">
+      <g id="uuid-ae52dd41-67ab-47c6-8f0f-73e337d1c70f" data-name="&amp;lt;放射狀重複&amp;gt;">
         <g>
           <g>
-            <polygon points="578.53 289 556.71 274.71 545.29 292.15 577.16 313.02 578.53 289" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
-            <polygon points="578.34 264.94 555.02 258.26 545.29 292.19 574.39 286.28 578.34 264.94" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="578.53 289 556.71 274.71 545.29 292.15 577.16 313.02 578.53 289" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="578.34 264.94 555.02 258.26 545.29 292.19 574.39 286.28 578.34 264.94" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
           </g>
-          <polygon points="578.53 289 556.71 274.71 545.29 292.15 577.16 313.02 578.53 289" style="fill: #207ecd;"/>
-          <polygon points="578.34 264.94 555.02 258.26 545.29 292.19 574.39 286.28 578.34 264.94" style="fill: #207ecd;"/>
+          <polygon points="578.53 289 556.71 274.71 545.29 292.15 577.16 313.02 578.53 289" style="fill: #3d99ec;"/>
+          <polygon points="578.34 264.94 555.02 258.26 545.29 292.19 574.39 286.28 578.34 264.94" style="fill: #3d99ec;"/>
         </g>
       </g>
-      <g id="uuid-a1ddd006-2e59-4374-9538-b7857dbc3f09" data-name="&amp;lt;放射狀重複&amp;gt;">
+      <g id="uuid-3804edb8-8370-46be-8d9a-9d404209a599" data-name="&amp;lt;放射狀重複&amp;gt;">
         <g>
           <g>
-            <polygon points="613.29 275.1 587.75 280.43 592.01 300.83 629.3 293.05 613.29 275.1" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
-            <polygon points="596.14 258.22 574.92 269.99 592.04 300.86 608.44 276.11 596.14 258.22" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="613.29 275.1 587.75 280.43 592.01 300.83 629.3 293.05 613.29 275.1" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="596.14 258.22 574.92 269.99 592.04 300.86 608.44 276.11 596.14 258.22" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
           </g>
-          <polygon points="613.29 275.1 587.75 280.43 592.01 300.83 629.3 293.05 613.29 275.1" style="fill: #207ecd;"/>
-          <polygon points="596.14 258.22 574.92 269.99 592.04 300.86 608.44 276.11 596.14 258.22" style="fill: #207ecd;"/>
+          <polygon points="613.29 275.1 587.75 280.43 592.01 300.83 629.3 293.05 613.29 275.1" style="fill: #3d99ec;"/>
+          <polygon points="596.14 258.22 574.92 269.99 592.04 300.86 608.44 276.11 596.14 258.22" style="fill: #3d99ec;"/>
         </g>
       </g>
-      <g id="uuid-f3769c53-85e5-49b0-8f8e-d5d13491c83f" data-name="&amp;lt;放射狀重複&amp;gt;">
+      <g id="uuid-ac8ff5af-20a6-41b9-9fd3-00397b102ea6" data-name="&amp;lt;放射狀重複&amp;gt;">
         <g>
           <g>
-            <polygon points="628.03 240.7 613.74 262.52 631.18 273.94 652.05 242.07 628.03 240.7" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
-            <polygon points="603.97 240.89 597.29 264.22 631.22 273.94 625.32 244.84 603.97 240.89" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="628.03 240.7 613.74 262.52 631.18 273.94 652.05 242.07 628.03 240.7" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="603.97 240.89 597.29 264.22 631.22 273.94 625.32 244.84 603.97 240.89" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
           </g>
-          <polygon points="628.03 240.7 613.74 262.52 631.18 273.94 652.05 242.07 628.03 240.7" style="fill: #207ecd;"/>
-          <polygon points="603.97 240.89 597.29 264.22 631.22 273.94 625.32 244.84 603.97 240.89" style="fill: #207ecd;"/>
+          <polygon points="628.03 240.7 613.74 262.52 631.18 273.94 652.05 242.07 628.03 240.7" style="fill: #3d99ec;"/>
+          <polygon points="603.97 240.89 597.29 264.22 631.22 273.94 625.32 244.84 603.97 240.89" style="fill: #3d99ec;"/>
         </g>
       </g>
-      <g id="uuid-0282e838-d62a-480a-87fc-159c9286ecc3" data-name="&amp;lt;放射狀重複&amp;gt;">
+      <g id="uuid-8af4359f-9e9c-4f7d-b6c5-6833b04ec957" data-name="&amp;lt;放射狀重複&amp;gt;">
         <g>
           <g>
-            <polygon points="614.13 205.95 619.46 231.48 639.86 227.22 632.08 189.93 614.13 205.95" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
-            <polygon points="597.25 223.1 609.02 244.31 639.89 227.2 615.14 210.8 597.25 223.1" style="fill: none; stroke: #114e7c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="614.13 205.95 619.46 231.48 639.86 227.22 632.08 189.93 614.13 205.95" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
+            <polygon points="597.25 223.1 609.02 244.31 639.89 227.2 615.14 210.8 597.25 223.1" style="fill: none; stroke: #25669b; stroke-linecap: round; stroke-linejoin: round; stroke-width: 7px;"/>
           </g>
-          <polygon points="614.13 205.95 619.46 231.48 639.86 227.22 632.08 189.93 614.13 205.95" style="fill: #207ecd;"/>
-          <polygon points="597.25 223.1 609.02 244.31 639.89 227.2 615.14 210.8 597.25 223.1" style="fill: #207ecd;"/>
+          <polygon points="614.13 205.95 619.46 231.48 639.86 227.22 632.08 189.93 614.13 205.95" style="fill: #3d99ec;"/>
+          <polygon points="597.25 223.1 609.02 244.31 639.89 227.2 615.14 210.8 597.25 223.1" style="fill: #3d99ec;"/>
         </g>
       </g>
     </g>
-    <circle cx="579.13" cy="240.1" r="27.14" style="fill: #207acc;"/>
-    <path d="M567.51,267.13c-14.9-6.41-21.81-23.74-15.41-38.65,6.41-14.9,23.75-21.81,38.65-15.41,14.9,6.41,21.81,23.74,15.41,38.65h0c-4.78,11.13-15.66,17.8-27.07,17.8-3.87,0-7.8-.77-11.58-2.39ZM601.97,249.92c5.41-12.59-.43-27.25-13.02-32.66-12.59-5.41-27.25.43-32.66,13.02-5.41,12.59.43,27.25,13.02,32.66,12.59,5.41,27.25-.42,32.66-13.02h0Z" style="fill: #114e7c;"/>
-    <path d="M570.83,259.41c-10.65-4.58-15.59-16.97-11.01-27.62,4.58-10.65,16.97-15.59,27.61-11.01,5.16,2.22,9.14,6.31,11.22,11.53,2.08,5.22,2,10.93-.21,16.09-3.42,7.95-11.19,12.72-19.34,12.72-2.77,0-5.58-.55-8.27-1.71ZM562.81,233.08c-3.87,9,.3,19.47,9.3,23.34,9,3.87,19.47-.3,23.34-9.3,3.87-9-.3-19.47-9.3-23.34-2.28-.98-4.65-1.44-6.99-1.44-6.89,0-13.46,4.03-16.35,10.75Z" style="fill: #114e7c;"/>
+    <circle cx="579.13" cy="240.1" r="27.14" style="fill: #3d95eb;"/>
+    <path d="M567.51,267.13c-14.9-6.41-21.81-23.74-15.41-38.65,6.41-14.9,23.75-21.81,38.65-15.41,14.9,6.41,21.81,23.74,15.41,38.65h0c-4.78,11.13-15.66,17.8-27.07,17.8-3.87,0-7.8-.77-11.58-2.39ZM601.97,249.92c5.41-12.59-.43-27.25-13.02-32.66-12.59-5.41-27.25.43-32.66,13.02-5.41,12.59.43,27.25,13.02,32.66,12.59,5.41,27.25-.42,32.66-13.02h0Z" style="fill: #25669b;"/>
+    <path d="M570.83,259.41c-10.65-4.58-15.59-16.97-11.01-27.62,4.58-10.65,16.97-15.59,27.61-11.01,5.16,2.22,9.14,6.31,11.22,11.53,2.08,5.22,2,10.93-.21,16.09-3.42,7.95-11.19,12.72-19.34,12.72-2.77,0-5.58-.55-8.27-1.71ZM562.81,233.08c-3.87,9,.3,19.47,9.3,23.34,9,3.87,19.47-.3,23.34-9.3,3.87-9-.3-19.47-9.3-23.34-2.28-.98-4.65-1.44-6.99-1.44-6.89,0-13.46,4.03-16.35,10.75Z" style="fill: #25669b;"/>
   </g>
-  <circle cx="46.47" cy="112.81" r="27.02" style="fill: none; stroke: #114e7c; stroke-miterlimit: 10; stroke-width: 6px;"/>
+  <circle cx="46.47" cy="112.81" r="27.02" style="fill: none; stroke: #25669b; stroke-miterlimit: 10; stroke-width: 6px;"/>
 </svg>
