@@ -807,7 +807,17 @@
   left: 118px;
   width: 1200px;
   height: 600px;
-  stroke: #81d4fa;
+  stroke: #bdb9a5;
+  stroke-width: 6px;
+  stroke-linejoin: round;
+}
+.track .cl-sr-9 {
+  position: absolute;
+  top: 66px;
+  left: 118px;
+  width: 1200px;
+  height: 600px;
+  stroke: #bdb9a5;
   stroke-width: 6px;
   stroke-linejoin: round;
 }
@@ -836,7 +846,16 @@
   width: 1200px;
   height: 640px;
   stroke-width: 6px;
-  stroke: #81d4fa;
+  stroke: #bdb9a5;
+}
+.track .cl-sr-8 {
+  position: absolute;
+  top: 172px;
+  left: 118px;
+  width: 1200px;
+  height: 640px;
+  stroke-width: 6px;
+  stroke: #867419;
 }
 .track .cl-scr-7-101 {
   position: absolute;
@@ -857,6 +876,15 @@
   stroke: #bdb9a5;
 }
 .track .cl-scr-7-97 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: #bdb9a5;
+}
+.track .cl-scr-7 {
   position: absolute;
   top: 268px;
   left: 118px;
@@ -892,6 +920,15 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
+.track .cl-scr-8 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: #bdb9a5;
+}
 .track .cl-scr-6-101 {
   position: absolute;
   top: 268px;
@@ -911,6 +948,15 @@
   stroke: #bdb9a5;
 }
 .track .cl-scr-6-97 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: #bdb9a5;
+}
+.track .cl-scr-6 {
   position: absolute;
   top: 268px;
   left: 118px;
@@ -946,6 +992,15 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
+.track .cl-scr-5 {
+  position: absolute;
+  top: 268px;
+  left: 118px;
+  width: 1100px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: #bdb9a5;
+}
 .track .cl-sr-6A-101 {
   position: absolute;
   top: 268px;
@@ -971,7 +1026,16 @@
   width: 1000px;
   height: 500px;
   stroke-width: 6px;
-  stroke: #a5d6a7;
+  stroke: #bdb9a5;
+}
+.track .cl-sr-6A {
+  position: absolute;
+  top: 268px;
+  left: 330px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: #bdb9a5;
 }
 .track .cl-sr-5A-101 {
   position: absolute;
@@ -1000,6 +1064,15 @@
   stroke-width: 6px;
   stroke: #a5d6a7;
 }
+.track .cl-sr-5A {
+  position: absolute;
+  top: 268px;
+  left: 330px;
+  width: 1000px;
+  height: 500px;
+  stroke-width: 6px;
+  stroke: #bdb9a5;
+}
 .track .cl-sr-4B-101 {
   position: absolute;
   top: 234px;
@@ -1027,6 +1100,15 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
+.track .cl-sr-4B {
+  position: absolute;
+  top: 234px;
+  left: 161px;
+  width: 1200px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: #bdb9a5;
+}
 .track .cl-sr-4A-101 {
   position: absolute;
   top: 234px;
@@ -1046,6 +1128,15 @@
   stroke: #bdb9a5;
 }
 .track .cl-sr-4A-97 {
+  position: absolute;
+  top: 234px;
+  left: 160px;
+  width: 1200px;
+  height: 600px;
+  stroke-width: 6px;
+  stroke: #bdb9a5;
+}
+.track .cl-sr-4A {
   position: absolute;
   top: 234px;
   left: 160px;
