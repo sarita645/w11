@@ -857,7 +857,7 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-7-101 {
+.track .cl-tr-7-101 {
   position: absolute;
   top: 193px;
   left: 118px;
@@ -866,7 +866,7 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-7-98 {
+.track .cl-tr-7-98 {
   position: absolute;
   top: 193px;
   left: 118px;
@@ -875,7 +875,7 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-7-97 {
+.track .cl-tr-7-97 {
   position: absolute;
   top: 193px;
   left: 118px;
@@ -886,14 +886,14 @@
 }
 .track .cl-scr-7 {
   position: absolute;
-  top: 268px;
+  top: 193px;
   left: 118px;
   width: 1000px;
   height: 500px;
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-8-101 {
+.track .cl-tr-8-101 {
   position: absolute;
   top: 193px;
   left: 118px;
@@ -902,7 +902,7 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-8-98 {
+.track .cl-tr-8-98 {
   position: absolute;
   top: 193px;
   left: 118px;
@@ -911,25 +911,25 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-8-97 {
+.track .cl-tr-8-97 {
   position: absolute;
   top: 193px;
   left: 118px;
-  width: 1000px;
+  width: 1200px;
   height: 500px;
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
 .track .cl-scr-8 {
   position: absolute;
-  top: 268px;
+  top: 193px;
   left: 118px;
   width: 1000px;
   height: 500px;
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-6-101 {
+.track .cl-tr-6-101 {
   position: absolute;
   top: 268px;
   left: 118px;
@@ -938,7 +938,7 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-6-98 {
+.track .cl-tr-6-98 {
   position: absolute;
   top: 268px;
   left: 118px;
@@ -947,11 +947,11 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-6-97 {
+.track .cl-tr-6-97 {
   position: absolute;
   top: 268px;
   left: 118px;
-  width: 1000px;
+  width: 1200px;
   height: 500px;
   stroke-width: 6px;
   stroke: #bdb9a5;
@@ -965,7 +965,7 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-5-101 {
+.track .cl-tr-5-101 {
   position: absolute;
   top: 268px;
   left: 118px;
@@ -974,7 +974,7 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-5-98 {
+.track .cl-tr-5-98 {
   position: absolute;
   top: 268px;
   left: 118px;
@@ -983,7 +983,7 @@
   stroke-width: 6px;
   stroke: #bdb9a5;
 }
-.track .cl-scr-5-97 {
+.track .cl-tr-5-97 {
   position: absolute;
   top: 268px;
   left: 118px;
@@ -1224,7 +1224,7 @@
   width: 700px;
   height: 600px;
   stroke-width: 6px;
-  stroke: #bdb9a5;
+  stroke: #c1a728;
 }
 .track .cl-sr-1B-98 {
   position: absolute;
